@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://podcast.sagittarius-eye.com/feed/sagi.xml" rel="self" type="application/rss+xml"/>
+        <title>Sagittarius Eye Podcast: Elite Dangerous' leading news network</title>
+        <link>https://www.sagittarius-eye.com/</link>
+        <language>en-GB</language>
+        <copyright>℗ &amp; © 2019 Sagittarius Eye</copyright>
+        <itunes:subtitle>Created by Commanders, for Commanders</itunes:subtitle>
+        <itunes:author>Sagittarius Eye</itunes:author>
+        <itunes:summary>Sagittarius Eye is Elite Dangerous' leading news network —  created by Commanders, for Commanders.</itunes:summary>
+        <description>With a history of publishing excellence, a top-notch team of talented contributors, galactic reach, and peerless coverage and insight, Sagittarius Eye is your indispensable companion to the Milky Way. We are Sagittarius Eye — we see all…</description>
+        <itunes:owner>
+            <itunes:name>Sagittarius Eye</itunes:name>
+            <itunes:email>info@sagittarius-eye.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://podcast.sagittarius-eye.com/img/SAGI_logo_only_blue.png"/>
+        <itunes:category text="Leisure">
+            <itunes:category text="Video Games"/>
+        </itunes:category>
+        <itunes:explicit>No</itunes:explicit>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 38</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>July 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>This month, we take a cruise to Colonia, wonder where the Thargoids came from, check out some ship-launched fighters, lock and load some assault rifles, and get to know the galaxy's favourite marine mammals.</p>
+				<p></p>
+				<p>00:00:22 - Editorial. Read by Rosetta Stone</p>
+				<p>00:02:26 - Flying the fleet. Written by Mack Winston, read by Rheeney, Poet Sparrow and Spidey002</p>
+				<p>00:16:49 - The Thargoid homeworld. Written by Rendak Soro and Souvarine, read by Beetlejude and LCU No Fool Like One</p>
+				<p>00:27:40 - Small arms: assault rifles. Written by Osashes, read by Qaztar</p>
+				<p>00:37:28 - Ship launched fighters. Written by Ariri, read by Professor Getter</p>
+				<p>00:46:16 - Interview: The Hull Seals. Read by Catisfaxion and Moogyver</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:22" title="Editorial. Read by Rosetta Stone"/>
+                <psc:chapter start="00:02:26" title="Flying the fleet. Written by Mack Winston, read by Rheeney, Poet Sparrow and Spidey002"/>
+                <psc:chapter start="00:16:49" title="The Thargoid homeworld. Written by Rendak Soro and Souvarine, read by Beetlejude and LCU No Fool Like One"/>
+                <psc:chapter start="00:27:40" title="Small arms: assault rifles. Written by Osashes, read by Qaztar"/>
+                <psc:chapter start="00:37:28" title="Ship launched fighters. Written by Ariri, read by Professor Getter"/>
+                <psc:chapter start="00:46:16" title="Interview: The Hull Seals. Read by Catisfaxion and Moogyver"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast38-album.jpg"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_38.mp3" length="66119894" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_38.mp3</guid>
+            <pubDate>Fri, 16 July 2021 10:00:00 +0000</pubDate>
+            <itunes:duration>0:54:43</itunes:duration>
+            <itunes:order>38</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 37</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>June 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this issue, we recap the tumultuous history of the Hesperus, discover what influences the colours of atmospheres, revisit spacefaring history with the Apollo 15 Expedition, speculate about the Soontill relics, and pull the pin on some hand grenades.</p>
+				<p></p>
+				<p>00:00:18 - Editorial. Read by Qatzar</p>
+				<p>00:02:28 - Small Arms: Grenades. Written by Osashes, read by Catisfaxion</p>
+				<p>00:14:21 - The Soontill relics: ancient treasures or modern forgeries? Written by Rendak Soro, read by Scott Cleverdon</p>
+				<p>00:25:18 - The Hesperus: death and salvation. Written by M Lehman, read by Moogyver</p>
+				<p>00:31:23 - The light fantastic. Written by Ariri, read by Beetlejude</p>
+				<p>00:42:02 - Rares Commodity Spotlight: Xihe Biomorphic Companions. Written by M.Lehman, read by Professor Getter</p>
+				<p>00:45:38 - The long view: the Apollo 15 Anniversary Expedition. Written by Mack Winston, read by Wrangleractual, Kai Zen and Eid LeWeise</p>
+				<p>Apollo 15 audio is Public Domain, digitized by Ken Glover.</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial. Read by Qatzar"/>
+                <psc:chapter start="00:02:28" title="Small Arms: Grenades. Written by Osashes, read by Catisfaxion"/>
+                <psc:chapter start="00:14:21" title="The Soontill relics: ancient treasures or modern forgeries? Written by Rendak Soro, read by Scott Cleverdon"/>
+                <psc:chapter start="00:25:18" title="The Hesperus: death and salvation. Written by M Lehman, read by Moogyver"/>
+                <psc:chapter start="00:31:23" title="The light fantastic. Written by Ariri, read by Beetlejude"/>
+                <psc:chapter start="00:42:02" title="Rares Commodity Spotlight: Xihe Biomorphic Companions. Written by M.Lehman, read by Professor Getter"/>
+                <psc:chapter start="00:45:38" title="The long view: the Apollo 15 Anniversary Expedition. Written by Mack Winston, read by Wrangleractual, Kai Zen and Eid LeWeise"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast37-album.jpg"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_37.mp3" length="75227065" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_37.mp3</guid>
+            <pubDate>Fri, 18 June 2021 10:00:00 +0000</pubDate>
+            <itunes:duration>1:02:35</itunes:duration>
+            <itunes:order>37</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 36</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>May 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this issue, we take the Orca for a spin, check in on the search for Raxxla, perfect our cold-orbiting, get in the flight seat of the majestic Imperial Cutter, and get to know Arf's favourite ships.</p>
+				<p></p>
+				<p>00:00:18 - Editorial. Read by Poet Sparrow</p>
+				<p>00:02:30 - Raxxla in 3307: the search continues. Written by Rendak Soro, read by Spidey002 and Professor Getter</p>
+				<p>00:13:13 - The Saud Kruger Orca: underrated and underutilised. Written by Osashes, read by Catisfaxion</p>
+				<p>00:19:28 - How do they do it? Taking down Thargoids with the AXI. Written by Ariri, read by Scott Cleverdon, Buur, Kai Zen and Professor Getter</p>
+				<p>00:31:57 - Basking shark: the Imperial Cutter. Written by Mack Winston, read by Beetlejude</p>
+				<p>00:45:45 - Wot I fly: Arf. Written by Souvarine, read by Eid Le Weise and Buur</p>
+				<p>00:47:24 - Co-Pawlots: Josephine</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial. Read by Poet Sparrow"/>
+                <psc:chapter start="00:02:30" title="Raxxla in 3307: the search continues. Written by Rendak Soro, read by Spidey002 and Professor Getter"/>
+                <psc:chapter start="00:13:13" title="The Saud Kruger Orca: underrated and underutilised. Written by Osashes, read by Catisfaxion"/>
+                <psc:chapter start="00:19:28" title="How do they do it? Taking down Thargoids with the AXI. Written by Ariri, read by Scott Cleverdon, Buur, Kai Zen and Professor Getter"/>
+                <psc:chapter start="00:31:57" title="Basking shark: the Imperial Cutter. Written by Mack Winston, read by Beetlejude"/>
+                <psc:chapter start="00:45:45" title="Wot I fly: Arf. Written by Souvarine, read by Eid Le Weise and Buur"/>
+                <psc:chapter start="00:47:24" title="Co-Pawlots: Josephine"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast36-album.jpg"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_36.mp3" length="60710747" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_36.mp3</guid>
+            <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+            <itunes:duration>50:27</itunes:duration>
+            <itunes:order>36</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 35</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>April 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this issue, we discover the origins of the Thargoid war and the Anti-Xeno Initiative, recap the tumultuous trial of Admiral Vincent, take a trip to Bering Port, get to know the remarkable Erimus Kamzel, get to grips with the new range of personal plasma weapons, and find out what Commander Gambit loves to fly.</p>
+				<p></p>
+				<p>00:00:19 Editorial. Read by Rheeney</p>
+				<p>00:01:42 Four years on: a history of the Thargoid conflict and the AXI. Written by Ariri, read by Catisfaxion, Kai Zen, Rheeney and Buur</p>
+				<p>00:13:58 Portable Plasma. Written by Souvarine, read by Orange Pheonix</p>
+				<p>00:27:31 The trial of Admiral Vincent: the conspiracy that rocked the Federation. Written by Rendak Soro, read by Scott Cleverdon, Beetlejude and Eid LeWeise
+				<p>00:41:03 An interview with Erimus Kamzel. Written by Souvarine, read by Souvarine and Wotherspoon</p>
+				<p>00:55:32 Stations you haven't visited: Bering Port. Written by M Lehman, read by Kai Zen and Eid LeWeise</p>
+				<p>01:04:11 Wot I Fly: Commander Gambit. Interview by Souvarine, read by Eid Le Weise and Catisfaxion</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:19" title="Editorial. Read by Rheeney"/>
+                <psc:chapter start="00:01:42" title="Four years on: a history of the Thargoid conflict and the AXI. Written by Ariri, read by Catisfaxion, Kai Zen, Rheeney and Buur"/>
+                <psc:chapter start="00:13:58" title="Portable Plasma. Written by Souvarine, read by Orange Pheonix"/>
+                <psc:chapter start="00:27:31" title="The trial of Admiral Vincent: the conspiracy that rocked the Federation. Written by Rendak Soro, read by Scott Cleverdon, Beetlejude and Eid LeWeise"/>
+                <psc:chapter start="00:41:03" title="An interview with Erimus Kamzel. Written by Souvarine, read by Souvarine and Wotherspoon"/>
+                <psc:chapter start="00:55:32" title="Stations you haven't visited: Bering Port. Written by M Lehman, read by Kai Zen and Eid LeWeise"/>
+                <psc:chapter start="01:04:11" title="Wot I Fly: Commander Gambit. Interview by Souvarine, read by Eid Le Weise and Catisfaxion"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast35-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_35.mp3" length="82173236" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_35.mp3</guid>
+            <pubDate>Fri, 23 Apr 2021 12:00:00 +0000</pubDate>
+            <itunes:duration>1:07:46</itunes:duration>
+            <itunes:order>35</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 34</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>March 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this edition, we take a look at why the Empire is having so much trouble with the NMLA despite its firepower and galactic influence. Then, to cap off our series of articles on SRV racing, we spill the secrets of the trade, and show you how to drive an SRV like you’ve never driven one before. Not content with the capabilities of the SRV, we have a guide on how best to make use of the glowing balls of death that spew forth should you install a plasma accelerator. Finishing off this issue, we have an ode to flight assist.</p>
+				<p></p>
+				<p>00:00:19 Editorial. Read by Wrangler Actual</p>
+				<p>00:02:10 Trouble with Marlinists. Written by Mack Winston, read by Beetlejude</p>
+				<p>00:15:02 An Advanced SRV Driving Lesson. Written by Osashes, read by Spidey002</p>
+				<p>00:25:35 A hard look at hard points: Plasma accelerators. Written by Ariri, read by Moogyver</p>
+				<p>00:32:41 Poetry: In Praise of Flight Assist. Written by Adurnis, read by Poet Sparrow</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:19" title="Editorial. Read by Wrangler Actual"/>
+                <psc:chapter start="00:02:10" title="Trouble with Marlinists. Written by Mack Winston, read by Beetlejude"/>
+                <psc:chapter start="00:15:02" title="An Advanced SRV Driving Lesson. Written by Osashes, read by Spidey002"/>
+                <psc:chapter start="00:25:35" title="A hard look at hard points: Plasma accelerators. Written by Ariri, read by Moogyver"/>
+                <psc:chapter start="00:32:41" title="In Praise of Flight Assist. Written by Adurnis, read by Poet Sparrow"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast34-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_34.mp3" length="43303792" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_34.mp3</guid>
+            <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+            <itunes:duration>0:36:00</itunes:duration>
+            <itunes:order>34</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 33</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>February 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this edition, our intrepid reporter sets out to win the Scarab Mastery Championship, a competition that brings out the  best in Vodel’s humble surface recon vehicle. We also get to fly the Imperial Courier, a truly marvellous machine that will elegantly both leave your friends and enemies in your wake as you hurtle through space. Then we go on a trip to Aquila's Halo with the Eagles and Angels expedition on a voyage of scientific discovery.</p>
+				<p></p>
+				<p>00:00:18 Editorial, read by Beetlejude</p>
+				<p>00:02:26 The Scarab Mastery Championship. Written by Osashes, read by Wrangler Actual with Eid LeWeise and Blackmaze</p>
+				<p>00:17:27 The Imperial Courier: A Homing Missile Capable of Frame Shift. Written by Ariri, read by Catisfaxion</p>
+				<p>00:24:41 Of Eagles and Angels. Written by Andrew Gaspurr, read by Scott Cleverdon with Wotherspoon and Kai Zen</p>
+      ]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial, read by Beetlejude"/>
+                <psc:chapter start="00:02:26" title="The Scarab Mastery Championship. Written by Osashes, read by Wrangler Actual with Eid LeWeise and Blackmaze"/>
+                <psc:chapter start="00:17:27" title="The Imperial Courier: A Homing Missile Capable of Frame Shift. Written by Ariri, read by Catisfaxion"/>
+                <psc:chapter start="00:24:41" title="Of Eagles and Angels. Written by Andrew Gaspurr, read by Scott Cleverdon with Wotherspoon and Kai Zen"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast33-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_33.mp3" length="47380106" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_33.mp3</guid>
+            <pubDate>Thu, 18 Feb 2021 12:00:00 +0000</pubDate>
+            <itunes:duration>0:39:21</itunes:duration>
+            <itunes:order>33</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 32</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>January 3307</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this edition, we take a look at the highly ambitious project to place fleet carriers all over the galaxy, as ports of call for explorers tens of thousands of light years from home. We also visit the unremarkable star system, LFT 509 - unremarkable, that is, except for its unexplained permit lock, and the possibility that it might hold the secrets of the Dark Wheel. Or at least, some forgotten pirate treasure. Also, in our continuing “Hard Look at Hardpoints” series, we give a hard look at one of the most fearsome weapons in the combateer’s arsenal: the railgun.</p>
+				<p></p>
+				<p>00:00:18 Editorial. Read by Scott Cleverdon.</p>
+				<p>00:02:40 A galaxy-spanning network: the Deep Space Support Array. Written by Adurnis, read by Poet Sparrow and Spidey002</p>
+				<p>00:22:05 The Mystery of LFT 509. Written by Mack Winston, read by Wotherspoon</p>
+				<p>00:34:51 A hard look at hardpoints: Railguns. Written by Ariri, read by Moogyver</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial. Read by Scott Cleverdon."/>
+                <psc:chapter start="00:02:40" title="A galaxy-spanning network: the Deep Space Support Array. Written by Adurnis, read by Poet Sparrow and Spidey002"/>
+                <psc:chapter start="00:22:05" title="The Mystery of LFT 509. Written by Mack Winston, read by Wotherspoon"/>
+                <psc:chapter start="00:34:51" title="A hard look at hardpoints: Railguns. Written by Ariri, read by Moogyver"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast32-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_32.mp3" length="50327888" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_32.mp3</guid>
+            <pubDate>Thu, 14 Jan 2021 12:00:00 +0000</pubDate>
+            <itunes:duration>0:41:50</itunes:duration>
+            <itunes:order>32</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 31</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>December 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this edition, our writer participates in the Quarantine Cup Races, which pits the Viper against the Eagle to discover which ship can prove itself to not only be the fastest in a straight line, but have the agility to make it around a challenging race circuit. Continuing on the theme of small fast ships, we take a look at the Sidewinder, a ship most commanders wanted to leave behind as quickly as they could, but perhaps this ship’s surprising turn of speed might make us want to think again. Turning to deep space, we discover the breadth and depth of the Cygnus constellation, one of the true wonders of our galaxy, and finally, we finish up with the next installment of our Hard Look at Hard Points, and see what the multicannon can do for the aspiring combat pilot.</p>
+				<p></p>
+				<p>00:00:18 Editorial. Read by Rheeney</p>
+				<p>00:02:06 The Quarantine Cup Races. Written by Osashes, read by WranglerActual, Rheeney and Buur</p>
+				<p>00:11:59 Ships you wanted to forget: The Sidewinder. Written by Mack Winston, read by Rosetta Stone and Kai Zen</p>
+				<p>00:25:07 The Cygnus Constellation. Written by Andrew Gaspurr, read by Beetlejude</p>
+				<p>00:40:22 A Hard look at hard points: Multicannons. Written by Ariri, read by Catisfaxion</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial. Read by Rheeney"/>
+                <psc:chapter start="00:02:06" title="The Quarantine Cup Races. Written by Osashes, read by WranglerActual, Rheeney and Buur"/>
+                <psc:chapter start="00:11:59" title="Ships you wanted to forget: The Sidewinder. Written by Mack Winston, read by Rosetta Stone and Kai Zen"/>
+                <psc:chapter start="00:25:07" title="The Cygnus Constellation. Written by Andrew Gaspurr, read by Beetlejude"/>
+                <psc:chapter start="00:40:22" title="A Hard look at hard points: Multicannons. Written by Ariri, read by Catisfaxion"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast31-album.jpg"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_31.mp3" length="60207104" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_31.mp3</guid>
+            <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>0:49:35</itunes:duration>
+            <itunes:order>31</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 30</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>November 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In this edition, we take a look at a bitter conflict in the Colonia nebula, far away and unknown by most commanders. What drives this conflict, and why is it even occurring? We talk to some of those behind it to find out why, and what scores are being settled. We then move on to the second part of our investigation of the Dark Wheel and its motivations. It’s not all conflict, though, as our intrepid reporter heads out on the Banana Nebula Expedition, categorising the notable stellar phenomena, which are common in the region. We finish off with the Eight WHeel Drive Endurance Championship, a race that requires rare skill to even complete, let alone win.</p>
+				<p></p>
+				<p>00:00:19 - Editorial. Read by Kai Zen</p>
+				<p>00:03:24 - The Carcosa War. Written by Adurnis, read by Catisfaxion, Scott Cleverdon, Poet Sparrow, Eid LeWeise and Spidey002</p>
+				<p>00:22:39 - Spokes of the Wheel Part 2. Written by M Lehman, read by Beetlejude, Kai Zen, Eid LeWeise and Wotherspoon</p>
+				<p>00:33:05 - Banana Nebula Expedition. Written by CMDR Raf Von Thorne, read by Wotherspoon and Scott Cleverdon</p>
+				<p>00:44:39 - The Eight Wheel Drive Endurance Championship. Written by CMDR BlackMaze, read by Moogyver, Scott Cleverdon, Kai Zen and Eid LeWeise</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:19" title="Editorial. Read by Kai Zen"/>
+                <psc:chapter start="00:03:24" title="The Carcosa War. Written by Adurnis, read by Catisfaxion, Scott Cleverdon, Poet Sparrow, Eid LeWeise and Spidey002"/>
+                <psc:chapter start="00:22:39" title="Spokes of the Wheel Part 2. Written by M Lehman, read by Beetlejude, Kai Zen, Eid LeWeise and Wotherspoon"/>
+                <psc:chapter start="00:33:05" title="Banana Nebula Expedition. Written by CMDR Raf Von Thorne, read by Wotherspoon and Scott Cleverdon"/>
+                <psc:chapter start="00:44:39" title="The Eight Wheel Drive Endurance Championship. Written by CMDR BlackMaze, read by Moogyver, Scott Cleverdon, Kai Zen and Eid LeWeise"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast30-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_30.mp3" length="69291112" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_30.mp3</guid>
+            <pubDate>Wed, 04 Nov 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>0:57:34</itunes:duration>
+            <itunes:order>30</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 29</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>October 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 29, we take a look at some mysteries, and how you may understand them. We open with the first in a series on the Dark Wheel, as M. Lehman takes a look at the origins of this shadowy organisation. Andrew Gaspurr gives us insight of what’s so special about Lalande 28607. Ariri discusses what lasers you might want to fit to your ship, and finally, Mack Winston takes a good look at the often overlooked Saud Kruger Dolphin, and why you should fly one.</p>
+				<p></p>
+				<p>00:00:19 - Editorial. Read by Eid LeWeise</p>
+				<p>00:03:15 - Spokes of the Wheel. Written by M. Lehman, read by Kai Zen</p>
+				<p>00:09:19 - The secret of Lalande 28607. Written by Andrew Gaspurr, read by Scott Cleverdon</p>
+				<p>00:19:58 - A hard look at hard points: lasers. Written by Ariri, read by Spidey007</p>
+				<p>00:29:34 - Small Luxuries in deep space: the Dolphin. Written by Mack Winston, read by PoetSparrow</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:19" title="Editorial. Read by Eid LeWeise"/>
+                <psc:chapter start="00:03:15" title="Spokes of the Wheel. Written by M. Lehman, read by Kai Zen"/>
+                <psc:chapter start="00:09:19" title="The secret of Lalande 28607. Written by Andrew Gaspurr, read by Scott Cleverdon"/>
+                <psc:chapter start="00:19:58" title="A hard look at hard points: lasers. Written by Arira, read by Spidey007"/>
+                <psc:chapter start="00:29:34" title="Small Luxuries in deep space: the Dolphin. Written by Mack Winston, read by PoetSparrow"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast29-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_29.mp3" length="83330858" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_29.mp3</guid>
+            <pubDate>Wed, 07 Oct 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>0:43:18</itunes:duration>
+            <itunes:order>29</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 28</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>September 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 28, we take a good look at how the galactic limits were finally reached by what can only be described as an epic journey taken by Cmdr Jonathan Burnage and his compatriots. M. Lehman follows this up with a visit to the Mother of Redemption, Mack Winston has some practical tips on conflict zones, and finally Cmdr Ariri takes us on a tour of degenerate matter: the stuff that makes up white dwarfs and neutron stars./p>
+					<p></p>
+					<p>00:00:18 - Editorial. Read by WranglerActual</p>
+					<p>00:02:13 - Voyages to the galactic limits. Written by Jonathan Burnage, read by Catisfaxion</p>
+					<p>00:16:56 - Stations you’ve (hopefully) never been to: Mother of Redemption. Written by M Lehman, read by Kai Zen</p>
+					<p>00:27:29 - A lone wolf's guide to conflict zones: How not to die as a mercenary. Written by Mack Winston, read by Rheeney</p>
+					<p>00:36:09 - The Degenerates: White dwarfs, neutron stars, and black holes. Written by Ariri, read by Moogyver</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:18" title="Editorial. Read by WranglerActual"/>
+                <psc:chapter start="00:02:13" title="Voyages to the galactic limits. Written by Jonathan Burnage, read by Catisfaxion"/>
+                <psc:chapter start="00:16:56" title="Stations you’ve (hopefully) never been to: Mother of Redemption. Written by M Lehman, read by Kai Zen"/>
+                <psc:chapter start="00:27:29" title="A lone wolf's guide to conflict zones: How not to die as a mercenary. Written by Mack Winston, read by Rheeney"/>
+                <psc:chapter start="00:36:09" title="The Degenerates: White dwarfs, neutron stars, and black holes. Written by Ariri, read by Moogyver"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast28-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_28.mp3" length="57316337" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_28.mp3</guid>
+            <pubDate>Wed, 02 Sep 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>0:47:39</itunes:duration>
+            <itunes:order>28</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 27</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>Q2 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 27, we take a spin in a fleet carrier, catch up with the AXI's fascinating new research, interview Mission Farsight, find out which systems are the deadliest, uncover Hudson's lethal legacy, and revisit Sagittarius Eye's history.</p><p></p><p>00:00:37 - Editorial. Read by WranglerActual.</p><p>00:03:57 - Fleet Carriers: how will they change the way we fly? Written by Souvarine, read by Buur and Kai Zen.</p><p>00:16:45 - Data-driven combat: hull emissivity and the Thargoid war. Written by VerticalBlank, read by Catisfaxion, Moogyver, Perky Percy and Eid LeWeise.</p><p>00:25:57 - Hudson’s real legacy: the Scythe of Panem and the Scourge. Written by CMDR Wotherspoon, read by Wotherspoon, Moogyver and Scott Cleverdon.</p><p>00:40:24 - The deadly tour: the star systems that kill the most explorers. Written by Mack Winston, read by Scott Cleverdon.</p><p>00:54:43 - Going rogue: in search of wandering worlds. Written by Lord Tyvin, read by PoetSparrow7.</p><p>01:04:35 - Mission Farsight. Written by Alexander Sepulveda, read by Kai Zen and Scott Cleverdon.</p><p>01:20:22 - Rare commodity spotlight: Master Chefs. Written by M Lehman, read by Rheeney, Eid LeWeise, Wotherspoon and WranglerActual.</p><p>01:29:11 - Stellar streams of the Milky Way. Written by Andrew Gaspurr, read by Perky Percy.</p><p>01:40:51 - From closet to asteroid: building The Print Works. Written by Icarus Maru, read by Catisfaxion.</p><p>01:47:22 - The bureaucrat superpower. Written by Ulon, read by Spidey002 and Wotherspoon.</p><p>01:52:29 - Dashboard dictums. Written by Alec Turner, read by Moogyver, Eid LeWeise, PoetSparrow7, Spidey002 and commanders speaking their own words.</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:37" title="Editorial. Read by WranglerActual."/>
+                <psc:chapter start="00:03:57" title="Fleet Carriers: how will they change the way we fly? Written by Souvarine, read by Buur and Kai Zen."/>
+                <psc:chapter start="00:16:45" title="Data-driven combat: hull emissivity and the Thargoid war. Written by VerticalBlank, read by Catisfaxion, Moogyver, Perky Percy and Eid LeWeise."/>
+                <psc:chapter start="00:25:57" title="Hudson’s real legacy: the Scythe of Panem and the Scourge. Written by CMDR Wotherspoon, read by Wotherspoon, Moogyver and Scott Cleverdon."/>
+                <psc:chapter start="00:40:24" title="The deadly tour: the star systems that kill the most explorers. Written by Mack Winston, read by Scott Cleverdon."/>
+                <psc:chapter start="00:54:43" title="Going rogue: in search of wandering worlds. Written by Lord Tyvin, read by PoetSparrow7."/>
+                <psc:chapter start="01:04:35" title="Mission Farsight. Written by Alexander Sepulveda, read by Kai Zen and Scott Cleverdon."/>
+                <psc:chapter start="01:20:22" title="Rare commodity spotlight: Master Chefs. Written by M Lehman, read by Rheeney, Eid LeWeise, Wotherspoon and WranglerActual."/>
+                <psc:chapter start="01:29:11" title="Stellar streams of the Milky Way. Written by Andrew Gaspurr, read by Perky Percy."/>
+                <psc:chapter start="01:40:51" title="From closet to asteroid: building The Print Works. Written by Icarus Maru, read by Catisfaxion."/>
+                <psc:chapter start="01:47:22" title="The bureaucrat superpower. Written by Ulon, read by Spidey002 and Wotherspoon."/>
+                <psc:chapter start="01:52:29" title="Dashboard dictums. Written by Alec Turner, read by Moogyver, Eid LeWeise, PoetSparrow7, Spidey002 and commanders speaking their own words."/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast27-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_27.mp3" length="146180326" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_27.mp3</guid>
+            <pubDate>Thu, 18 Jun 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>2:07:19</itunes:duration>
+            <itunes:order>27</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 26</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>Q1 3306</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 26, we meet a group dedicated to flying with flight assist off, learn how to take part in a CG and live to talk about it, revisit the life of one of the Empire's colourful figures, discover an insurgency, recap two ongoing expeditions, ask what makes a brown dwarf, and swot up on some lore.</p><p></p><p>00:00:39 - Editorial. Written by Souvarine, read by Spidey002</p><p>00:02:38 - Surviving a Trade Community Goal. Written by Mack Winston, read by Scott Cleverdon</p><p>00:20:17 - What are Brown Dwarfs? Written by Andrew Gaspurr, read by Poet Sparrow</p><p>00:29:18 - Senator Kahina Loren: Obituary. Written by Drew Wagar, read by Scott Cleverdon</p><p>00:43:00 - Newton's Gambit. Written by Alexander Sepulveda, with thanks to Sanderling, read by Beetlejude, with Catisfaxion as Sanderling.</p><p>00:53:21 - Rare Commodities Spotlight: Pantaa Prayer Sticks. Written by Vingtetun, read by Wotherspoon</p><p>01:00:13 - The Fall of Nova Imperium. Written by Misaniovent, with thanks to Extremofire, Hassod, Imperius, Rainbro of Nova Navy, St. Michael, and read by Wrangleractual, with Scott Cleverdon, Wotherspoon, Eid Le Weise and Kai Zen</p><p>01:16:05 - Featured expedition: the Perseus Reach and Orion Expeditions. Written by LordTyvin, read by Catisfaxion, with Moogyver, Eid Le Weise and Wotherspoon</p><p>01:25:37 - The Lore Tour 3306. Written by Drew Wagar, read by Beetlejude. Includes an excerpt from "Address at Rice University on the Nation's Space Effort", by John F Kennedy</p><p>01:33:42 - Stations You Haven't Visited: Explorer's Anchorage. Written by M. Lehman, read by Moogyver</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Souvarine, read by Spidey002"/>
+                <psc:chapter start="00:02:38" title="Surviving a Trade Community Goal. Written by Mack Winston, read by Scott Cleverdon"/>
+                <psc:chapter start="00:20:17" title="What are Brown Dwarfs? Written by Andrew Gaspurr, read by Poet Sparrow"/>
+                <psc:chapter start="00:29:18" title="Senator Kahina Loren: Obituary. Written by Drew Wagar, read by Scott Cleverdon"/>
+                <psc:chapter start="00:43:00" title="Newton's Gambit. Written by Alexander Sepulveda, with thanks to Sanderling, read by Beetlejude, with Catisfaxion as Sanderling."/>
+                <psc:chapter start="00:53:21" title="Rare Commodities Spotlight: Pantaa Prayer Sticks. Written by Vingtetun, read by Wotherspoon"/>
+                <psc:chapter start="01:00:13" title="The Fall of Nova Imperium. Written by Misaniovent, with thanks to Extremofire, Hassod, Imperius, Rainbro of Nova Navy, St. Michael, and read by Wrangleractual, with Scott Cleverdon, Wotherspoon, Eid Le Weise and Kai Zen"/>
+                <psc:chapter start="01:16:05" title="Featured expedition: the Perseus Reach and Orion Expeditions. Written by LordTyvin, read by Catisfaxion, with Moogyver, Eid Le Weise and Wotherspoon"/>
+                <psc:chapter start="01:25:37" title="The Lore Tour 3306. Written by Drew Wagar, read by Beetlejude. Includes an excerpt from &quot;Address at Rice University on the Nation's Space Effort&quot;, by John F Kennedy"/>
+                <psc:chapter start="01:33:42" title="Stations You Haven't Visited: Explorer's Anchorage. Written by M. Lehman, read by Moogyver"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast26-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_26.mp3" length="121108733" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_26.mp3</guid>
+            <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+            <itunes:duration>1:40:38</itunes:duration>
+            <itunes:order>26</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 25</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>Q4 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 25, we get to know three Pilots Federation groups: the East India Company, the Chapterhouse of Inquisition and the Fatherhood. We crunch the numbers on some of the most fearsome weapons in the void, learn about a mad new sport, and ask: just why does society hate the Pilots’ Federation?</p><p></p><p>00:00:41 - Editorial. Written by Mack Winston, read by Spidey002</p><p>00:03:13 - Inquisition: Getting to Know the Chapterhouse. Written by M. Lehman, read by Scott Cleverdon, with thanks to Jubei Himura</p><p>00:12:34 - Lab Notes: Lava Spouts. Written by Venus, read by Beetlejude</p><p>00:13:36 - Come to Daddy: Flying with the Fatherhood. Written by Venus, read by Poet Sparrow and Spidey002, with thanks to TK7725</p><p>00:18:05 - Speedbowl. Written by Souvarine, read by Eid LeWeise, Catisfaxion and PrimetimeCasual, with thanks to PrimetimeCasual and Sanderling</p><p>00:28:48 - The Silent Surge of the Alliance. Written by Ulon, read by Moogyver, with thanks to DNA-Decay and Outsidefactor</p><p>00:38:06 - Railguns, Incendiary Multicannons and Plasma Accelerators. Written by Lord Tyvin, read by Beetlejude, with thanks to Maligno, Canonn Research and the Anti-Xeno Initiative</p><p>00:48:31 - Christmas Carriers Convoy: A Colonia Tradition. Written by Mack Winston, read by Catisfaxion, with thanks to Sirrus Tamus</p><p>00:56:20 - Why Do They Hate Us? Written by Venus and Souvarine, read by Wotherspoon</p><p>01:03:23 - The East India Company. Written by Mack Winston, read by Scott Cleverdon, with thanks to Icarus Smith and Voggix</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:41" title="Editorial. Written by Mack Winston, read by Spidey002"/>
+                <psc:chapter start="00:03:13" title="Inquisition: Getting to Know the Chapterhouse. Written by M. Lehman, read by Scott Cleverdon, with thanks to Jubei Himura"/>
+                <psc:chapter start="00:12:34" title="Lab Notes: Lava Spouts. Written by Venus, read by Beetlejude"/>
+                <psc:chapter start="00:13:36" title="Come to Daddy: Flying with the Fatherhood. Written by Venus, read by Poet Sparrow and Spidey002, with thanks to TK7725"/>
+                <psc:chapter start="00:18:05" title="Speedbowl. Written by Souvarine, read by Eid LeWeise, Catisfaxion and PrimetimeCasual, with thanks to PrimetimeCasual and Sanderling"/>
+                <psc:chapter start="00:28:48" title="The Silent Surge of the Alliance. Written by Ulon, read by Moogyver, with thanks to DNA-Decay and Outsidefactor"/>
+                <psc:chapter start="00:38:06" title="Railguns, Incendiary Multicannons and Plasma Accelerators. Written by Lord Tyvin, read by Beetlejude, with thanks to Maligno, Canonn Research and the Anti-Xeno Initiative"/>
+                <psc:chapter start="00:48:31" title="Christmas Carriers Convoy: A Colonia Tradition. Written by Mack Winston, read by Catisfaxion, with thanks to Sirrus Tamus"/>
+                <psc:chapter start="00:56:20" title="Why Do They Hate Us? Written by Venus and Souvarine, read by Wotherspoon"/>
+                <psc:chapter start="01:03:23" title="The East India Company. Written by Mack Winston, read by Scott Cleverdon, with thanks to Icarus Smith and Voggix"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast25-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_25.mp3" length="94168629" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_25.mp3</guid>
+            <pubDate>Wed, 11 Dec 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:18:09</itunes:duration>
+            <itunes:order>25</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 24</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>August 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 24, we get up close and personal with life on airless worlds, do some supercruise maths, get to know one of the Federation’s most influential families, head out to the Carina constellation, and steal some art.</p><p></p><p>00:00:42 - Editorial. Written by Souvarine, read by Adurnis</p><p>00:03:13 - The Rochester Family. Written by Coriander Salamander, read by Derell Nar, Spidey002 and Poet Sparrow</p><p>00:16:48 - The Winking Cat. Written by Coriander Salamander, read by BeetleJude and Adurnis</p><p>00:28:05 - Life on Airless Worlds. Written by LordTyvin, read by Catisfaxion</p><p>00:38:16 - Understanding Lagrange Points. Written by Eros Madelung, read by Wotherspoon</p><p>00:56:08 - The Ship's Keel: The Carina Constellation. Written by Andrew Gaspurr, read by Wrangler Actual</p><p>01:11:51 - When a Straight Line Isn't Shortest. Written by Mack Winston, read by Scott Cleverdon</p><p>01:26:33 - Stations You've Not Visited: Mawson Dock. Written by M. Lehman, read by Moogyver, Perky Percy, Maya Fey and Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:42" title="Editorial. Written by Souvarine, read by Adurnis"/>
+                <psc:chapter start="00:03:13" title="The Rochester Family. Written by Coriander Salamander, read by Derell Nar, Spidey002 and Poet Sparrow"/>
+                <psc:chapter start="00:16:48" title="The Winking Cat. Written by Coriander Salamander, read by BeetleJude and Adurnis"/>
+                <psc:chapter start="00:28:05" title="Life on Airless Worlds. Written by LordTyvin, read by Catisfaxion"/>
+                <psc:chapter start="00:38:16" title="Understanding Lagrange Points. Written by Eros Madelung, read by Wotherspoon"/>
+                <psc:chapter start="00:56:08" title="The Ship's Keel: The Carina Constellation. Written by Andrew Gaspurr, read by Wrangler Actual"/>
+                <psc:chapter start="01:11:51" title="When a Straight Line Isn't Shortest. Written by Mack Winston, read by Scott Cleverdon"/>
+                <psc:chapter start="01:26:33" title="Stations You've Not Visited: Mawson Dock. Written by M. Lehman, read by Moogyver, Perky Percy, Maya Fey and Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast24-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_24.mp3" length="116327459" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_24.mp3</guid>
+            <pubDate>Thu, 15 Aug 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:35:48</itunes:duration>
+            <itunes:order>24</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 23</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>December 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 23, we ask where life comes from, what mysterious substance seems to hold the Galaxy together, find out how influential the Pilots’ Federation really are, get to know Nova Imperium and the Far God Cult, and hop into the flight seat of the Krait Phantom.</p><p></p><p>00:00:39 - Editorial. Written by Souvarine, read by Buur</p><p>00:05:03 - The Rise of Nova Imperium. Written by Coriander Salamander, read by BeetleJude, Maya Fey and Scott Cleverdon</p><p>00:18:50 - The Far God Cult. Written by Coriander Salamander, read by Moogyver, Wotherspoon, Maya Fey, Derell Nar and Scott Cleverdon</p><p>00:30:39 - Canonn and the Thargoids: The Heroes of Humanity’s Greatest Puzzle. Written by Adurnis, read by Spidey002 and LCU No Fool Like One</p><p>00:52:01 - The Building Blocks of Life. Written by LordTyvin, read by Catisfaxion</p><p>01:03:55 - Shipyard: Krait Phantom. Written by Mack Winston, read by Adurnis, Buur, Eid LeWeise, Rheeney, Spidey002, Wrangler Actual and Beetlejude</p><p>01:13:07 - What’s the Matter with Dark Matter? Written by Eros Madelung, read by BeetleJude</p><p>01:27:11 - Staying Cool in Space. Written by Eros Madelung, read by Wotherspoon</p><p>01:39:24 - Passengers Wanted: Have Spaceship, Will Travel. Written by M. Lehman, read by BeetleJude, Wrangler Actual, Rheeney and Scott Cleverdon</p><p>01:46:39 - Stations You Haven’t Visited: Robardin Rock. Written by M. Lehman, read by Rheeney</p><p>01:52:14 - How Independent Pilots Shape Galactic Politics. Written by Ulon, read by Perky Percy</p><p>02:04:02 - Rare Commodities Spotlight: Geawen Dance Dust. Written by Allen Stroud, read by Poet Sparrow</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Souvarine, read by Buur"/>
+                <psc:chapter start="00:05:03" title="The Rise of Nova Imperium. Written by Coriander Salamander, read by BeetleJude, Maya Fey and Scott Cleverdon"/>
+                <psc:chapter start="00:18:50" title="The Far God Cult. Written by Coriander Salamander, read by Moogyver, Wotherspoon, Maya Fey, Derell Nar and Scott Cleverdon"/>
+                <psc:chapter start="00:30:39" title="Canonn and the Thargoids: The Heroes of Humanity’s Greatest Puzzle. Written by Adurnis, read by Spidey002 and LCU No Fool Like One"/>
+                <psc:chapter start="00:52:01" title="The Building Blocks of Life. Written by LordTyvin, read by Catisfaxion"/>
+                <psc:chapter start="01:03:55" title="Shipyard: Krait Phantom. Written by Mack Winston, read by Adurnis, Buur, Eid LeWeise, Rheeney, Spidey002, Wrangler Actual and Beetlejude"/>
+                <psc:chapter start="01:13:07" title="What’s the Matter with Dark Matter? Written by Eros Madelung, read by BeetleJude"/>
+                <psc:chapter start="01:27:11" title="Staying Cool in Space. Written by Eros Madelung, read by Wotherspoon"/>
+                <psc:chapter start="01:39:24" title="Passengers Wanted: Have Spaceship, Will Travel. Written by M. Lehman, read by BeetleJude, Wrangler Actual, Rheeney and Scott Cleverdon"/>
+                <psc:chapter start="01:46:39" title="Stations You Haven’t Visited: Robardin Rock. Written by M. Lehman, read by Rheeney"/>
+                <psc:chapter start="01:52:14" title="How Independent Pilots Shape Galactic Politics. Written by Ulon, read by Perky Percy"/>
+                <psc:chapter start="02:04:02" title="Rare Commodities Spotlight: Geawen Dance Dust. Written by Allen Stroud, read by Poet Sparrow"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast23-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_23.mp3" length="157156480" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_23.mp3</guid>
+            <pubDate>Thu, 18 Jul 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>2:08:25</itunes:duration>
+            <itunes:order>23</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 22</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>June 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 22, we look back at Distant Worlds 2, get a taste for luxury exploration, investigate the structure of the Alliance, get a war report on the Thargoids, explore the science that powers everything we use, and go back in time to remember Apollo 11.</p><p></p><p>00:00:37 - Editorial. Written by Souvarine, read by PoetSparrow7</p><p>00:02:47 - Structure of a Superpower: The Alliance. Written by Allen Stroud, read by Scott Cleverdon</p><p>00:11:20 - Losing the War: Humanity's Hope Diminishes Daily. Written by Adurnis, read by Phoenix_Dfire and cast</p><p>00:28:55 - Distant Worlds 2. Written by CDRWillTRiker, Chankk Saotome, Dr.Nagi, Eisen, Erimus Kamzel, Ouberos, Qohen Leth, and Wishblend; read by Wotherspoon and cast</p><p>00:50:42 - Ships You Don't Fly: Cobra Mk IV. Written by Souvarine, read by Adurnis and Catisfaxion</p><p>01:04:14 - Exploring in Style: The Saud Kruger Renaissance. Written by Andrew Gaspurr, read by Derell Nar and cast</p><p>01:18:23 - Taming the Stars: Fusion Energy. Written by LordTyvin, read by WranglerActual</p><p>01:31:34 - The Long View: Apollo 11 Expedition. Written by Mack Winston, read by Wotherspoon</p><p>01:46:34 - Mckinnon’s Heart and Soul. Written by Allen Stroud, read by Perky Percy</p><p>01:56:44 - Rare Commodities Spotlight: Ethgreze Tea Buds. Written by Allen Stroud, read by Spidey002</p>		
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:37" title="Editorial. Written by Souvarine, read by PoetSparrow7"/>
+                <psc:chapter start="00:02:47" title="Structure of a Superpower: The Alliance. Written by Allen Stroud, read by Scott Cleverdon"/>
+                <psc:chapter start="00:11:20" title="Losing the War: Humanity's Hope Diminishes Daily. Written by Adurnis, read by Phoenix_Dfire and cast"/>
+                <psc:chapter start="00:28:55" title="Distant Worlds 2. Written by CDRWillTRiker, Chankk Saotome, Dr.Nagi, Eisen, Erimus Kamzel, Ouberos, Qohen Leth, and Wishblend; read by Wotherspoon and cast"/>
+                <psc:chapter start="00:50:42" title="Ships You Don't Fly: Cobra Mk IV. Written by Souvarine, read by Adurnis and Catisfaxion"/>
+                <psc:chapter start="01:04:14" title="Exploring in Style: The Saud Kruger Renaissance. Written by Andrew Gaspurr, read by Derell Nar and cast"/>
+                <psc:chapter start="01:18:23" title="Taming the Stars: Fusion Energy. Written by LordTyvin, read by WranglerActual"/>
+                <psc:chapter start="01:31:34" title="The Long View: Apollo 11 Expedition. Written by Mack Winston, read by Wotherspoon"/>
+                <psc:chapter start="01:46:34" title="Mckinnon’s Heart and Soul. Written by Allen Stroud, read by Perky Percy"/>
+                <psc:chapter start="01:56:44" title="Rare Commodities Spotlight: Ethgreze Tea Buds. Written by Allen Stroud, read by Spidey002"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast22-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_22.mp3" length="149011316" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_22.mp3</guid>
+            <pubDate>Thu, 13 Jun 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>2:01:22</itunes:duration>
+            <itunes:order>22</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 21</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>May 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 21, we revisit Operation Ida, investigate life in the Empire, check out another ship you don't fly, land on some Goliaths, explore the lawless Pegasi Sector, and ask: just how has the first half of Hudson's presidency gone?</p><p></p><p>00:00:39 - Editorial. Written by Souvarine, read by Spidey002</p><p>00:02:32 - Structure of a Superpower: The Empire. Written by Allen Stroud, read by Perky Percy</p><p>00:15:27 - Operation Ida. Written by Mini_Watto, read by WranglerActual</p><p>00:23:50 - Caught in the Fangs of Fate. Written by Lee Hutchinson and Souvarine, read by Eid LeWeise and PoetSparrow</p><p>00:29:46 - Feeling Confident? President Hudson’s mid-terms, and first four years in office. Written by Adurnis, read by Scott Cleverdon</p><p>00:41:20 - Ships You Don't Fly: Lakon Type-7. Written by Mack Winston, read by Derell Nar</p><p>00:55:44 - The Art of PvP. Written by Donald Duck, read by Adurnis and Wotherspoon</p><p>01:05:36 - Taming Giants: The Art of High-G Landings. Written by Buanzox, read by BeetleJude and Adurnis</p><p>01:12:13 - What Are Wolf-Rayet Stars? Written by Andrew Gaspurr, read by Wotherspoon</p><p>01:22:01 - Pegasi: The Renegade Sector. Written by M. Lehman, read by Maya Fey and BeetleJude</p><p>01:35:28 - Rare Commodities Spotlight: Motrona Experience Jelly. Written by Allen Stroud, read by Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Souvarine, read by Spidey002"/>
+                <psc:chapter start="00:02:32" title="Structure of a Superpower: The Empire. Written by Allen Stroud, read by Perky Percy"/>
+                <psc:chapter start="00:15:27" title="Operation Ida. Written by Mini_Watto, read by WranglerActual"/>
+                <psc:chapter start="00:23:50" title="Caught in the Fangs of Fate. Written by Lee Hutchinson and Souvarine, read by Eid LeWeise and PoetSparrow"/>
+                <psc:chapter start="00:29:46" title="Feeling Confident? President Hudson’s mid-terms, and first four years in office. Written by Adurnis, read by Scott Cleverdon"/>
+                <psc:chapter start="00:41:20" title="Ships You Don't Fly: Lakon Type-7. Written by Mack Winston, read by Derell Nar"/>
+                <psc:chapter start="00:55:44" title="The Art of PvP. Written by Donald Duck, read by Adurnis and Wotherspoon"/>
+                <psc:chapter start="01:05:36" title="Taming Giants: The Art of High-G Landings. Written by Buanzox, read by BeetleJude and Adurnis"/>
+                <psc:chapter start="01:12:13" title="What Are Wolf-Rayet Stars? Written by Andrew Gaspurr, read by Wotherspoon"/>
+                <psc:chapter start="01:22:01" title="Pegasi: The Renegade Sector. Written by M. Lehman, read by Maya Fey and BeetleJude"/>
+                <psc:chapter start="01:35:28" title="Rare Commodities Spotlight: Motrona Experience Jelly. Written by Allen Stroud, read by Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast21-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_21.mp3" length="122149064" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_21.mp3</guid>
+            <pubDate>Thu, 16 May 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:40:33</itunes:duration>
+            <itunes:order>21</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 20</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>April 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 20, we find out more about Mobius, dive into the red tape of the Federation, take a tour of Barnard’s Loop, compare the Krait Mk II and the Python, explore the pulsars of 47 Tucanae, interview a well-known artist, investigate the Phoenix Campaign, and get a glipmse into the life of one of the most powerful and popular politicians in the Galaxy.</p><p></p><p>00:00:38 - Editorial. Written by Souvarine, read by Maya Fey</p><p>00:02:43 - Structure of a Superpower: The Federation. Written by Allen Stroud, read by Scott Cleverdon</p><p>00:12:11 - Visitor's Guide to Barnard's Loop. Written by Andrew Gaspurr and Buanzox, read by Rheeney</p><p>00:22:24 - Snake-Off: Krait Mk II vs Python. Written by Mack Winston, read by Buur</p><p>00:39:21 - We Are Mobius. Written by McNicholl, read by Adurnis</p><p>00:49:10 - Pulses Beyond the Plane. Written by Andrew Gaspurr, read by Burr and Rheeney</p><p>00:58:21 - Flogging it with Yamiks. Written by Souvarine and Ziggy, read by Scott Cleverdon and Yamiks</p><p>01:02:20 - Featured Artist: Commander ToCoSo. Written by Souvarine and ToCoSo, read by Eid Leweise and ToCoSo</p><p>01:05:40 - Pieces of Eight: a User's Guide to Piracy. Written by G-Dubya, read by Wotherspoon and Scott Cleverdon</p><p>01:21:00 - The Phoenix Campaign. Written by Saul, read by Eid Leweise and Scott Cleverdon</p><p>01:29:37 - The Powers: Aisling Duval, the Girl Behind the Princess. Written by Allen Stroud, Souvarine, and Ziggy, read by Derell Nar and Maya Fey</p><p>01:34:06 - Rare Commodities Spotlight: Eden Apples of Aerial. Written by Allen Stroud, read by Wotherspoon</p><p>01:37:29 - Lab Notes: the Technicium Mystery. Written by Mini_Watto, read by Derell Nar</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:38" title="Editorial. Written by Souvarine, read by Maya Fey"/>
+                <psc:chapter start="00:02:43" title="Structure of a Superpower: The Federation. Written by Allen Stroud, read by Scott Cleverdon"/>
+                <psc:chapter start="00:12:11" title="Visitor's Guide to Barnard's Loop. Written by Andrew Gaspurr and Buanzox, read by Rheeney"/>
+                <psc:chapter start="00:22:24" title="Snake-Off: Krait Mk II vs Python. Written by Mack Winston, read by Buur"/>
+                <psc:chapter start="00:39:21" title="We Are Mobius. Written by McNicholl, read by Adurnis"/>
+                <psc:chapter start="00:49:10" title="Pulses Beyond the Plane. Written by Andrew Gaspurr, read by Burr and Rheeney"/>
+                <psc:chapter start="00:58:21" title="Flogging it with Yamiks. Written by Souvarine and Ziggy, read by Scott Cleverdon and Yamiks"/>
+                <psc:chapter start="01:02:20" title="Featured Artist: Commander ToCoSo. Written by Souvarine and ToCoSo, read by Eid Leweise and ToCoSo"/>
+                <psc:chapter start="01:05:40" title="Pieces of Eight: a User's Guide to Piracy. Written by G-Dubya, read by Wotherspoon and Scott Cleverdon"/>
+                <psc:chapter start="01:21:00" title="The Phoenix Campaign. Written by Saul, read by Eid Leweise and Scott Cleverdon"/>
+                <psc:chapter start="01:29:37" title="The Powers: Aisling Duval, the Girl Behind the Princess. Written by Allen Stroud, Souvarine, and Ziggy, read by Derell Nar and Maya Fey"/>
+                <psc:chapter start="01:34:06" title="Rare Commodities Spotlight: Eden Apples of Aerial. Written by Allen Stroud, read by Wotherspoon"/>
+                <psc:chapter start="01:37:29" title="Lab Notes: the Technicium Mystery. Written by Mini_Watto, read by Derell Nar"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast20-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_20.mp3" length="135771218" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_20.mp3</guid>
+            <pubDate>Thu, 18 Apr 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:42:05</itunes:duration>
+            <itunes:order>20</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 19</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>March 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 19, we meet spacefaring women, learn to fly without the assistance of the on-board computer, dive into the world of combat pilots, visit a unicorn, learn to read Thargoid, and meet some space truckers.</p><p></p><p>00:00:43 - Editorial. Written by Souvarine, read by Scott Cleverdon</p><p>00:03:46 - Who the Hell are the Hutton Truckers? Written by Alec Turner, read by Rheeney and Vingtetun</p><p>00:15:53 - True Colours: Mystery of the Thargoid Markings. Written by M. Lehman and Souvarine, read by Scott Cleverdon</p><p>00:22:02 - Stars and Unicorns: The Monoceros Constellation. Written by Andrew Gaspurr, read by Scott Cleverdon </p><p>00:33:06 - The PvP League. Written by Mini_Watto, read by Derell Nar, Rheeney, and L'Untouchable</p><p>00:48:04 - Mastering Flight Assist Off. Written by G-Dubya, read by Scott Cleverdon</p><p>00:57:52 - Women of Space. Written by Adurnis and Souvarine, read by Buur and Rheeney</p><p>01:21:51 - Trading the Good Stuff. Written by Mack Winston, read by Derell Nar</p><p>01:38:27 - Rare Commodities Spotlight: Witchhaul Kobe Beef. Written by Allen Stroud, read by Scott Cleverdon</p><p>01:41:40 - Fire Dance Jam. Composed and performed by MidNyte</p><p>01:43:22 - Review: Elements. Written by Souvarine, read by Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:43" title="Editorial. Written by Souvarine, read by Scott Cleverdon"/>
+                <psc:chapter start="00:03:46" title="Who the Hell are the Hutton Truckers? Written by Alec Turner, read by Rheeney and Vingtetun"/>
+                <psc:chapter start="00:15:53" title="True Colours: Mystery of the Thargoid Markings. Written by M. Lehman and Souvarine, read by Scott Cleverdon"/>
+                <psc:chapter start="00:22:02" title="Stars and Unicorns: The Monoceros Constellation. Written by Andrew Gaspurr, read by Scott Cleverdon "/>
+                <psc:chapter start="00:33:06" title="The PvP League. Written by Mini_Watto, read by Derell Nar, Rheeney, and L'Untouchable"/>
+                <psc:chapter start="00:48:04" title="Mastering Flight Assist Off. Written by G-Dubya, read by Scott Cleverdon"/>
+                <psc:chapter start="00:57:52" title="Women of Space. Written by Adurnis and Souvarine, read by Buur and Rheeney"/>
+                <psc:chapter start="01:21:51" title="Trading the Good Stuff. Written by Mack Winston, read by Derell Nar"/>
+                <psc:chapter start="01:38:27" title="Rare Commodities Spotlight: Witchhaul Kobe Beef. Written by Allen Stroud, read by Scott Cleverdon"/>
+                <psc:chapter start="01:41:40" title="Fire Dance Jam. Composed and performed by MidNyte"/>
+                <psc:chapter start="01:43:22" title="Review: Elements. Written by Souvarine, read by Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast19-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_19.mp3" length="103927417" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_19.mp3</guid>
+            <pubDate>Thu, 14 Mar 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:46:35</itunes:duration>
+            <itunes:order>19</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 18</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>February 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 18, we tumble with the Trumbles, learn the murky history of the Alliance's capital, are haunted by 'ghost ships', go on an expedition to Jaques with some smugglers, get to grips with new mining tools, learn to talk like a Commander, and ask why nobody flies the Keelback.</p><p></p><p>00:00:28 - Editorial. Written by Souvarine, read by Wotherspoon</p><p>00:03:42 - Trumbles: Loved and Loathed. Written by Craig Uchuu, read by Scott Cleverdon</p><p>00:11:51 - Alioth: Conflicted Capital. Written by Allen Stroud, read by Derell Nar</p><p>00:27:00 - Ghost Ships: AI in the Bubble. Written by Souvarine, read by Allcrowsareblack</p><p>00:42:24 - Ships You Don't Fly: The Keelback. Written by McNicholl, read by Scott Cleverdon</p><p>00:50:50 - Xeno Combat Guide, Part Three: Behaviour and Tactics. Written by G-Dubya, read by Eid LeWeise</p><p>01:03:09 - Breaking Rocks: Our Beginner's Guide to Mining. Written by Alec Turner, read by Perky Percy</p><p>01:20:08 - Rare Commodity Spotlight: The Aepyornis Egg. Written by Allen Stroud, read by Wotherspoon</p><p>01:24:34 - Space Lingo. Written by Buanzox, read by Perky Percy</p><p>01:35:18 - The Danksgiving Expedition. Written by Mack Winston, read by Allcrowsareblack</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:28" title="Editorial. Written by Souvarine, read by Wotherspoon"/>
+                <psc:chapter start="00:03:42" title="Trumbles: Loved and Loathed. Written by Craig Uchuu, read by Scott Cleverdon"/>
+                <psc:chapter start="00:11:51" title="Alioth: Conflicted Capital. Written by Allen Stroud, read by Derell Nar"/>
+                <psc:chapter start="00:27:00" title="Ghost Ships: AI in the Bubble. Written by Souvarine, read by Allcrowsareblack"/>
+                <psc:chapter start="00:42:24" title="Ships You Don't Fly: The Keelback. Written by McNicholl, read by Scott Cleverdon"/>
+                <psc:chapter start="00:50:50" title="Xeno Combat Guide, Part Three: Behaviour and Tactics. Written by G-Dubya, read by Eid LeWeise"/>
+                <psc:chapter start="01:03:09" title="Breaking Rocks: Our Beginner's Guide to Mining. Written by Alec Turner, read by Perky Percy"/>
+                <psc:chapter start="01:20:08" title="Rare Commodity Spotlight: The Aepyornis Egg. Written by Allen Stroud, read by Wotherspoon"/>
+                <psc:chapter start="01:24:34" title="Space Lingo. Written by Buanzox, read by Perky Percy"/>
+                <psc:chapter start="01:35:18" title="The Danksgiving Expedition. Written by Mack Winston, read by Allcrowsareblack"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast18-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_18.mp3" length="121044438" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_18.mp3</guid>
+            <pubDate>Thu, 14 Feb 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:47:20</itunes:duration>
+            <itunes:order>18</itunes:order>
+            <itunes:keywords>Elite Dangerous, Sagittarius Eye, Trumble, Alioth, Ghost Ships, Colonia, Jaques, Keelback</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 17</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>January 3305</itunes:subtitle>
+            <itunes:summary><![CDATA[
+					<p>In Issue 17, we shed some light on the Dark Wheel, go to driving school, find out how commanders name their ships, learn about engine modifications for speed, get zapped by energy weapons, and datamine GalNet.</p><p></p><p>00:00:39 - Editorial. Written by Souvarine, read by Wotherspoon</p><p>00:03:17 - Unpicking GalNet. Written by The_Thargoid, read by Souvarine</p><p>00:06:30 - What's in a Name: the Hardest Part of Buying a New Ship. Written by Buanzox, read by Derell Nar</p><p>00:13:53 - Pushing the Limits: Engineering for Speed. Written by Evelyn Orwell, read by Scott Cleverdon</p><p>00:29:20 - Master Your SRV. Written by Alec Turner, read by Derell Nar</p><p>00:41:32 - Xeno Combat Guide: Ships and Modules. Written by G-Dubya, read by Buur, BeetleJude, Scott Cleverdon and Eid LeWeise</p><p>00:52:46 - Guardian Technology in Human Hands. Written by M. Lehman, read by Souvarine</p><p>01:02:18 - Physics of Energy Weapons. Written by Mini_Watto, read by Scott Cleverdon</p><p>01:19:47 - The Dark Wheel: Fact or Fiction? Written by Icarus Maru and Allen Stroud, read by Adurnis and Sarah Kerr</p><p>01:28:18 - Rare Commodity Spotlight: Arouca Conventional Sweets. Written by Allen Stroud, read by Wotherspoon</p><p>01:32:08 - Monsters of the Deep. Written by Allen Stroud, read by Poet Sparrow, Spidey002 and Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Souvarine, read by Wotherspoon"/>
+                <psc:chapter start="00:03:17" title="Unpicking GalNet. Written by The_Thargoid, read by Souvarine"/>
+                <psc:chapter start="00:06:30" title="What's in a Name: the Hardest Part of Buying a New Ship. Written by Buanzox, read by Derell Nar"/>
+                <psc:chapter start="00:13:53" title="Pushing the Limits: Engineering for Speed. Written by Evelyn Orwell, read by Scott Cleverdon"/>
+                <psc:chapter start="00:29:20" title="Master Your SRV. Written by Alec Turner, read by Derell Nar"/>
+                <psc:chapter start="00:41:32" title="Xeno Combat Guide: Ships and Modules. Written by G-Dubya, read by Buur, BeetleJude, Scott Cleverdon and Eid LeWeise"/>
+                <psc:chapter start="00:52:46" title="Guardian Technology in Human Hands. Written by M. Lehman, read by Souvarine"/>
+                <psc:chapter start="01:02:18" title="Physics of Energy Weapons. Written by Mini_Watto, read by Scott Cleverdon"/>
+                <psc:chapter start="01:19:47" title="The Dark Wheel: Fact or Fiction? Written by Icarus Maru and Allen Stroud, read by Adurnis and Sarah Kerr"/>
+                <psc:chapter start="01:28:18" title="Rare Commodity Spotlight: Arouca Conventional Sweets. Written by Allen Stroud, read by Wotherspoon"/>
+                <psc:chapter start="01:32:08" title="Monsters of the Deep. Written by Allen Stroud, read by Poet Sparrow, Spidey002 and Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast17-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_17.mp3" length="127004310" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_17.mp3</guid>
+            <pubDate>Thu, 17 Jan 2019 12:00:00 +0000</pubDate>
+            <itunes:duration>1:45:18</itunes:duration>
+            <itunes:order>17</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 16</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>December 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[				
+				<p>In Issue 16, we dive into the complex web of galactic powers, talk with the Independent Defence Agency and how they aim to make the Galaxy a better place, shine some light on heroes out in the black, crack open the tourist guide, look into the Formidine Rift mystery and the Dynasty Expedition, explore what it takes to make a long journey in the black, and burn space dust in the Mamba.</p><p></p><p>00:00:39 - Editorial. Written by Michael Darkmoor, read by Moogyver</p><p>00:03:18 - The Independent Defence Agency: Bringing Civility to an Uncivilized Galaxy. Written by Adurnis, read by Catisfaxion</p><p>00:14:10 - Rare Commodities Spotlight: Shan’s Charis Orchid. Written by Allen Stroud, read by Perky Percy</p><p>00:17:06 - Different Heroes. Written by Allen Stroud, read by Scott Cleverdon</p><p>00:23:01 - Know Your Stations. Written by Icarus Maru, read by BeetleJude</p><p>00:27:14 - Game of Powers. Written by Souvarine, read by Wotherspoon</p><p>00:52:37 - Gran Tourismo. Written by Lexic Meise, read by WranglerActual</p><p>00:58:06 - Project Dynasty: The Formidine Rift Mystery. Written by J.C. Warren, Read by Moogyver</p><p>01:04:20 - The Art of Deep Space Survival. Written by Michael Darkmoor, read by Wotherspoon</p><p>01:18:53 - Shipyard: Mamba. Written by Mini_Watto, read by Adurnis</p><p>01:30:35 - Xeno Combat Guide: Survival. Written by G-Dubya and Michael Darkmoor, read by Derell Nar</p><p>Other parts are read by members of the cast.</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Michael Darkmoor, read by Moogyver"/>
+                <psc:chapter start="00:03:18" title="The Independent Defence Agency: Bringing Civility to an Uncivilized Galaxy. Written by Adurnis, read by Catisfaxion"/>
+                <psc:chapter start="00:14:10" title="Rare Commodities Spotlight: Shan’s Charis Orchid. Written by Allen Stroud, read by Perky Percy"/>
+                <psc:chapter start="00:17:06" title="Different Heroes. Written by Allen Stroud, read by Scott Cleverdon"/>
+                <psc:chapter start="00:23:01" title="Know Your Stations. Written by Icarus Maru, read by BeetleJude"/>
+                <psc:chapter start="00:27:14" title="Game of Powers. Written by Souvarine, read by Wotherspoon"/>
+                <psc:chapter start="00:52:37" title="Gran Tourismo. Written by Lexic Meise, read by WranglerActual"/>
+                <psc:chapter start="00:58:06" title="Project Dynasty: The Formidine Rift Mystery. Written by J.C. Warren, Read by Moogyver"/>
+                <psc:chapter start="01:04:20" title="The Art of Deep Space Survival. Written by Michael Darkmoor, read by Wotherspoon"/>
+                <psc:chapter start="01:18:53" title="Shipyard: Mamba. Written by Mini_Watto, read by Adurnis"/>
+                <psc:chapter start="01:30:35" title="Xeno Combat Guide: Survival. Written by G-Dubya and Michael Darkmoor, read by Derell Nar"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast16-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_16.mp3" length="123735148" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_16.mp3</guid>
+            <pubDate>Sat, 13 Dec 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:40:53</itunes:duration>
+            <itunes:order>16</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 15</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>November 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[				
+				<p>In issue 15, we explore the the Guardian civilization, examine how Commanders can move the levers of Galactic economic and political change, explore Colonia’s history, investigate the dark art of Thargoid Sensor bombing, take a look at the history of the science group known as Canonn, shine a light upon the secretive Black Flight, and much more.</p><p></p><p>00:00:38 Editorial. Written by Souvarine, read by WranglerActual</p><p>00:03:31 The Guardian Coverup. Written by Adurnis, read by Adurnis</p><p>00:12:43 Carving out the Kingdom. Written by McNicholl, read by Moogyver</p><p>00:21:32 Rare Commodities: Orrerian Vicious Brew. Written by Allen Stroud, read by Perky Percy</p><p>00:25:44 Lab Notes: Praseodymium. Written by Undomyr, read by Derell Nar</p><p>00:28:25 Colonia: Eden, Evolved. Written by J.C. Warren, read by Moogyver and cast</p><p>00:39:29 Secret Life of UA Bombers. Written by G-Dubya, read by Wotherspoon and Scott Cleverdon</p><p>00:47:29 Canonn: Servants of Science. Written by Icarus Maru, read by Catisfaxion and cast</p><p>00:53:40 Ships you DO Fly. Written by Buanzox & Souvarine, read by Beetlejude and cast</p><p>00:59:54 Not the Future Our Ancestors Imagined. Written by Allen Stroud, read by Derell Nar</p><p>01:06:57 Black Flight: INRA Cover-Up Agency? Written by Icarus Maru, read by Scott Cleverdon and cast</p><p>01:15:43 Lave: Revolution Audio Drama. Written by Souvarine, read by Adurnis, music by Allen Stroud</p>				
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:38" title="Editorial. Written by Souvarine, read by WranglerActual"/>
+                <psc:chapter start="00:03:31" title=" The Guardian Coverup. Written by Adurnis, read by Adurnis"/>
+                <psc:chapter start="00:12:43" title=" Carving out the Kingdom. Written by McNicholl, read by Moogyver"/>
+                <psc:chapter start="00:21:32" title=" Rare Commodities: Orrerian Vicious Brew. Written by Allen Stroud, read by Perky Percy"/>
+                <psc:chapter start="00:25:44" title=" Lab Notes: Praseodymium. Written by Undomyr, read by Derell Nar"/>
+                <psc:chapter start="00:28:25" title=" Colonia: Eden, Evolved. Written by J.C. Warren, read by Moogyver and cast"/>
+                <psc:chapter start="00:39:29" title=" Secret Life of UA Bombers. Written by G-Dubya, read by Wotherspoon and Scott Cleverdon"/>
+                <psc:chapter start="00:47:29" title=" Canonn: Servants of Science. Written by Icarus Maru, read by Catisfaxion and cast"/>
+                <psc:chapter start="00:53:40" title=" Ships you DO Fly. Written by Buanzox &amp; Souvarine, read by Beetlejude and cast"/>
+                <psc:chapter start="00:59:54" title=" Not the Future Our Ancestors Imagined. Written by Allen Stroud, read by Derell Nar"/>
+                <psc:chapter start="01:06:57" title=" Black Flight: INRA Cover-Up Agency? Written by Icarus Maru, read by Scott Cleverdon and cast"/>
+                <psc:chapter start="01:15:43" title=" Lave: Revolution Audio Drama. Written by Souvarine, read by Adurnis, music by Allen Stroud"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast15-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_15.mp3" length="97517947" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_15.mp3</guid>
+            <pubDate>Thu, 15 Nov 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:18:54</itunes:duration>
+            <itunes:order>15</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 14</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>October 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[				
+				<p>In issue 14 we explore the backstory of Jaques, interview Inara’s #1 ranked Commander, dive deeper into the love and hate of our alien neighbours the Thargoids, investigate the adrenaline-fuelled world of underground racing, find out what goes into planning expedition waypoints, and more.</p><p></p><p>00:00:39 – Editorial, read by Scott Cleverdon</p><p>00:04:05 – Utopia: Paradise Amongst the Stars? Read by Spidey002, Cmdr Buur, Cmdr Rheeney, Maya Fey, Perky Percy and Adurnis</p><p>00:16:37 – Elite Racers: The Underground Racing Club, read by Derell Nar</p><p>00:22:14 – Us and Them: Who are the Real Enemy? Read by Poet Sparrow, Cmdr Buur, Cmdr Rheeney, Maya Fey and Eid LeWeise</p><p>00:32:55 – Distant Worlds 2: Engineering an Expedition, Part 2. Read by Wotherspoon and Adurnis</p><p>00:41:05 – The Mystery of the Unknown Permits, read by Wrangler Actual</p><p>00:45:13 – The Galaxy’s Top Pilot: Beagle and Back with Inara’s Number-One Ranked Commander, read by Catisfaxion and Derell Nar</p><p>00:54:34 – Alliance Crusader, read by Moogyver</p><p>01:05:06 – The Life of Jaques: Cyborg, War Hero, Bartender. Read by Beetlejude and Scott Cleverdon</p><p>01:14:52 – The Explorers, by Miguel Johnson, read by Perky Percy</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial, read by Scott Cleverdon"/>
+                <psc:chapter start="00:04:05" title="Utopia: Paradise Amongst the Stars? Read by Spidey002, Cmdr Buur, Cmdr Rheeney, Maya Fey, Perky Percy and Adurnis"/>
+                <psc:chapter start="00:16:37" title="Elite Racers: The Underground Racing Club, read by Derell Nar"/>
+                <psc:chapter start="00:22:14" title="Us and Them: Who are the Real Enemy? Read by Poet Sparrow, Cmdr Buur, Cmdr Rheeney, Maya Fey and Eid LeWeise"/>
+                <psc:chapter start="00:32:55" title="Distant Worlds 2: Engineering an Expedition, Part 2. Read by Wotherspoon and Adurnis"/>
+                <psc:chapter start="00:41:05" title="The Mystery of the Unknown Permits, read by Wrangler Actual"/>
+                <psc:chapter start="00:45:13" title="The Galaxy’s Top Pilot: Beagle and Back with Inara’s Number-One Ranked Commander, read by Catisfaxion and Derell Nar"/>
+                <psc:chapter start="00:54:34" title="Alliance Crusader, read by Moogyver"/>
+                <psc:chapter start="01:05:06" title="The Life of Jaques: Cyborg, War Hero, Bartender. Read by Beetlejude and Scott Cleverdon"/>
+                <psc:chapter start="01:14:52" title="The Explorers, by Miguel Johnson, read by Perky Percy"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast14-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_14.mp3" length="97843088" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_14.mp3</guid>
+            <pubDate>Thu, 18 Oct 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:19:41</itunes:duration>
+            <itunes:order>14</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 13</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>September 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[				
+				<p>In Issue 13, we discover what GalCop actually was, get behind the flight stick of the Alliance Challenger, meet the Galaxy's most powerful women, get to know the Fuel Rats and ask: just who the hell is John Graham?</p><p></p><p>00:00:42 - Editorial. Written by Rasudin, read by EidLeWeise and Souvarine</p><p>00:04:41 - Sympathy for the Devil: Thargoid Supporters.  Written by Souvarine, read by Poet Sparrow and cast</p><p>00:12:09 - Commanding Your Clothing.  Written by Jessica Sonnet, read by Beetlejude</p><p>00:17:55 - Powerful Women: The Other Half of the Story.  Written by Rasudin, read by Poet Sparrow</p><p>00:29:16 - Working a Little Mischief.  Written by Michael Darkmoor, read by spidey002 and cast</p><p>00:43:12 - Tactical Considerations: Take it to the Ground.  Written by McNicholl, read by Derell Nar</p><p>00:53:24 - The Alliance Challenger.  Written by Mini_Watto, read by Adurnis</p><p>01:04:09 - Alien Capabilities: Thargoid War Machine.  Written by The_thargoid, read by WranglerActual and cast</p><p>01:19:42 - The Strange History of John Graham.  Written by Allen Stroud, read by Wotherspoon</p><p>01:25:15 - The Galactic Cooperative and the Rise of the Independent Pilot.  Written by J. C. Warren, read by Beetlejude</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:42" title="Editorial. Written by Rasudin, read by EidLeWeise and Souvarine"/>
+                <psc:chapter start="00:04:41" title="Sympathy for the Devil: Thargoid Supporters.  Written by Souvarine, read by Poet Sparrow and cast"/>
+                <psc:chapter start="00:12:09" title="Commanding Your Clothing.  Written by Jessica Sonnet, read by Beetlejude"/>
+                <psc:chapter start="00:17:55" title="Powerful Women: The Other Half of the Story.  Written by Rasudin, read by Poet Sparrow"/>
+                <psc:chapter start="00:29:16" title="Working a Little Mischief.  Written by Michael Darkmoor, read by spidey002 and cast"/>
+                <psc:chapter start="00:43:12" title="Tactical Considerations: Take it to the Ground.  Written by McNicholl, read by Derell Nar"/>
+                <psc:chapter start="00:53:24" title="The Alliance Challenger.  Written by Mini_Watto, read by Adurnis"/>
+                <psc:chapter start="01:04:09" title="Alien Capabilities: Thargoid War Machine.  Written by The_thargoid, read by WranglerActual and cast"/>
+                <psc:chapter start="01:19:42" title="The Strange History of John Graham.  Written by Allen Stroud, read by Wotherspoon"/>
+                <psc:chapter start="01:25:15" title="The Galactic Cooperative and the Rise of the Independent Pilot.  Written by J. C. Warren, read by Beetlejude"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast13-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_13.mp3" length="117191164" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_13.mp3</guid>
+            <pubDate>Thu, 13 Sep 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:35:14</itunes:duration>
+            <itunes:order>13</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 12</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>August 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[				
+				<p>In Issue 12, we discover the history of space travel, ask 'what if?' of the Empire, strap in to the cockpit of a Krait Mk II, speculate about the Mars Relic, and wing up with a remarkable explorer.</p><p></p><p>00:00:38 - Editorial. Written by Souvarine, read by Scott Cleverdon</p><p>00:04:44 - Fellow Travellers: The History of Rocketry. Written by Alexander Sepulveda, read by BeetleJude</p><p>00:16:33 - Imperium Sine Imperator. Written by Elmrod Balaster, read by Phoenix_Dfire</p><p>00:24:53 - The Third Elder Race and Beyond. Written by Louis Calvert and Rasudin, read by Spidey002</p><p>00:35:48 - Krait Mk II. Written by Mini_Watto, read by Derell Nar</p><p>00:45:19 - Into the Black: The Remarkable Voyages of Commander Pingmonster. Written by J C Warren, read by PoetSparrow7</p><p>00:52:28 - Neutron Jump Fertility Fears. Written by DrNoesis, read by Eid LeWeise and Maya Fey</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:38" title="Editorial. Written by Souvarine, read by Scott Cleverdon"/>
+                <psc:chapter start="00:04:44" title="Fellow Travellers: The History of Rocketry. Written by Alexander Sepulveda, read by BeetleJude"/>
+                <psc:chapter start="00:16:33" title="Imperium Sine Imperator. Written by Elmrod Balaster, read by Phoenix_Dfire"/>
+                <psc:chapter start="00:24:53" title="The Third Elder Race and Beyond. Written by Louis Calvert and Rasudin, read by Spidey002"/>
+                <psc:chapter start="00:35:48" title="Krait Mk II. Written by Mini_Watto, read by Derell Nar"/>
+                <psc:chapter start="00:45:19" title="Into the Black: The Remarkable Voyages of Commander Pingmonster. Written by J C Warren, read by PoetSparrow7"/>
+                <psc:chapter start="00:52:28" title="Neutron Jump Fertility Fears. Written by DrNoesis, read by Eid LeWeise and Maya Fey"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast12-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_12.mp3" length="69097585" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_12.mp3</guid>
+            <pubDate>Thu, 16 Aug 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>0:55:56</itunes:duration>
+            <itunes:order>12</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 11</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>July 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 11, we splash the cash, learn about the sexiest superpower, test our mettle with the Buckyballers and CQC Arena, and send one of our team out into open space for the first time.</p><p></p><p>00:00:40 - Editorial. written by Souvarine, read by Spidey002</p><p>00:03:07 - Credits and Wealth: Too Much is Never Enough. Written by Icarus Maru, read by PoetSparrow7</p><p>00:09:18 - Buckyballers: a New Breed of Racer. Written by Souvarine, read by WranglerActual</p><p>00:19:59 - Distant Worlds 2: Engineering an Expedition. Written by Michael Darkmoor, read by BeetleJude and Rheeney</p><p>00:27:25 - Top Guns: Gladiators of the CQC Arena. Written by DrNoesis, read by Scott Cleverdon</p><p>00:39:49 - Open Space: A Solo Pilot’s First Time. Written by DanIRW and DrNoesis, read by JollyFuchsia and Wotherspoon</p><p>00:48:39 - The Big Three: Clash of the Titans. Written by Mini_Watto, read by BeetleJude</p><p>01:01:50 - History of the Empire. Written by J C Warren, read by Perky Percy</p><p>01:12:52 - Have You Seen Movies in Witch-space? Written by DrNoesis, read by Phoenix_Dfire and Eid LeWeise</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:40" title="Editorial. written by Souvarine, read by Spidey002"/>
+                <psc:chapter start="00:03:07" title="Credits and Wealth: Too Much is Never Enough. Written by Icarus Maru, read by PoetSparrow7"/>
+                <psc:chapter start="00:09:18" title="Buckyballers: a New Breed of Racer. Written by Souvarine, read by WranglerActual"/>
+                <psc:chapter start="00:19:59" title="Distant Worlds 2: Engineering an Expedition. Written by Michael Darkmoor, read by BeetleJude and Rheeney"/>
+                <psc:chapter start="00:27:25" title="Top Guns: Gladiators of the CQC Arena. Written by DrNoesis, read by Scott Cleverdon"/>
+                <psc:chapter start="00:39:49" title="Open Space: A Solo Pilot’s First Time. Written by DanIRW and DrNoesis, read by JollyFuchsia and Wotherspoon"/>
+                <psc:chapter start="00:48:39" title="The Big Three: Clash of the Titans. Written by Mini_Watto, read by BeetleJude"/>
+                <psc:chapter start="01:01:50" title="History of the Empire. Written by J C Warren, read by Perky Percy"/>
+                <psc:chapter start="01:12:52" title="Have You Seen Movies in Witch-space? Written by DrNoesis, read by Phoenix_Dfire and Eid LeWeise"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast11-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_11.mp3" length="94107665" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_11.mp3</guid>
+            <pubDate>Thu, 12 Jul 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:16:07</itunes:duration>
+            <itunes:order>11</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 10</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>June 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 10, we ask some searching questions about two prominent figures, put our tinfoil hats on to speculate about Thargoids, learn the history of the Federation and Lave, discover an improbable ship, and get high on onion head.</p><p></p><p>00:00:38 - Editorial. Written by Dr Noesis, read by WranglerActual</p><p>00:03:21 - Halsey: Puppet or Prophet? Written by Louis Calvert, read by Scott Cleverdon, Sabina Poppae and Maya Fey</p><p>00:19:39 - Obsidian Ant: Voice of the People, or Shill for the Club? Written by Rasudin, read by Poet Sparrow</p><p>00:26:27 - The Rares Trade: The Underbelly of Galactic Commerce. Written by J C Warren, read by Perky Percy</p><p>00:37:10 - Onion Head: Fear and Loathing in Panem. Written by McNicholl, Read by Derell Nar</p><p>00:49:05 - History of the Federation. Written by Alexander Sepulveda, read by Spidey002</p><p>01:00:55 - The Recent History of Lave. Written by Allen Stroud, read by Wotherspoon</p><p>01:09:34 - Attack of the Zombie Thargoids. Written by Louis Calvert, read by BeetleJude and Scott Cleverdon</p><p>01:21:52 - Hot Rodder: Fat Bottomed Girl. Written by Mini_Watto, read by Jolly Fuchsia and Primetime Casual</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:38" title="Editorial. Written by Dr Noesis, read by WranglerActual"/>
+                <psc:chapter start="00:03:21" title="Halsey: Puppet or Prophet? Written by Louis Calvert, read by Scott Cleverdon, Sabina Poppae and Maya Fey"/>
+                <psc:chapter start="00:19:39" title="Obsidian Ant: Voice of the People, or Shill for the Club? Written by Rasudin, read by Poet Sparrow"/>
+                <psc:chapter start="00:26:27" title="The Rares Trade: The Underbelly of Galactic Commerce. Written by J C Warren, read by Perky Percy"/>
+                <psc:chapter start="00:37:10" title="Onion Head: Fear and Loathing in Panem. Written by McNicholl, Read by Derell Nar"/>
+                <psc:chapter start="00:49:05" title="History of the Federation. Written by Alexander Sepulveda, read by Spidey002"/>
+                <psc:chapter start="01:00:55" title="The Recent History of Lave. Written by Allen Stroud, read by Wotherspoon"/>
+                <psc:chapter start="01:09:34" title="Attack of the Zombie Thargoids. Written by Louis Calvert, read by BeetleJude and Scott Cleverdon"/>
+                <psc:chapter start="01:21:52" title="Hot Rodder: Fat Bottomed Girl. Written by Mini_Watto, read by Jolly Fuchsia and Primetime Casual"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast10-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_10.mp3" length="111891288" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_10.mp3</guid>
+            <pubDate>Thu, 14 Jun 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:30:49</itunes:duration>
+            <itunes:order>10</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 9</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>May 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 9, we investigate the Pilots Federation, get to know a taxi driver, go mining, conquer worlds, get familiar with the Asp Scout, and dream of Andromeda.</p><p></p><p>00:00:40 - Editorial. Written by Wilfrid Sephiroth, read by PoetSparrow7</p><p>00:04:00 - Who Are The Pilots Federation? Written by Rasudin, read by Phoenix_Dfire</p><p>00:11:27 - Louis Calvert’s Weekend of Rock ‘n’ Lasers. Written by Louis Calvert, read by Derell Nar</p><p>00:29:39 - Lifting the Curtain: Rant of an Interstellar Taxi Driver. Written by Michael “LaBufon” Donoghue, read by Scott Cleverdon</p><p>00:34:27 - The Generation Ships: Sombre Beacons of Humanity’s Dreams. Written by Wilfrid Sephiroth, read by Spidey002</p><p>00:43:07 - Where Do We Go From Here? Written by DrNoesis, read by Wotherspoon</p><p>00:55:45 - Confessions of an Accidental Thief. Written by Louis Calvert, read by Adurnis, Beetlejude, and Souvarine</p><p>01:07:56 - Conquerors of Worlds: The Planetary Circumnavigation Club. Written by Souvarine, read by Scott Cleverdon and Alec Turner</p><p>01:17:22 - Ships You Don’t fly: Asp Scout. Written by McNicholl, read by Wotherspoon</p><p>01:30:18 - Hot Rodder: The Cosmic Flipper. Written by Alexander Sepulveda, read by Perky Percy</p><p>01:37:51 - Flight Assist Off: Health Risk? Written by Rasudin, read by Beetlejude, PoetSparrow7, and Eid LeWeise</p><p>01:41:25 - Bug Down Boogie. Written by DrNoesis, read by Spidey002 and Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:40" title="Editorial. Written by Wilfrid Sephiroth, read by PoetSparrow7"/>
+                <psc:chapter start="00:04:00" title="Who Are The Pilots Federation? Written by Rasudin, read by Phoenix_Dfire"/>
+                <psc:chapter start="00:11:27" title="Louis Calvert’s Weekend of Rock ‘n’ Lasers. Written by Louis Calvert, read by Derell Nar"/>
+                <psc:chapter start="00:29:39" title="Lifting the Curtain: Rant of an Interstellar Taxi Driver. Written by Michael “LaBufon” Donoghue, read by Scott Cleverdon"/>
+                <psc:chapter start="00:34:27" title="The Generation Ships: Sombre Beacons of Humanity’s Dreams. Written by Wilfrid Sephiroth, read by Spidey002"/>
+                <psc:chapter start="00:43:07" title="Where Do We Go From Here? Written by DrNoesis, read by Wotherspoon"/>
+                <psc:chapter start="00:55:45" title="Confessions of an Accidental Thief. Written by Louis Calvert, read by Adurnis, Beetlejude, and Souvarine"/>
+                <psc:chapter start="01:07:56" title="Conquerors of Worlds: The Planetary Circumnavigation Club. Written by Souvarine, read by Scott Cleverdon and Alec Turner"/>
+                <psc:chapter start="01:17:22" title="Ships You Don’t fly: Asp Scout. Written by McNicholl, read by Wotherspoon"/>
+                <psc:chapter start="01:30:18" title="Hot Rodder: The Cosmic Flipper. Written by Alexander Sepulveda, read by Perky Percy"/>
+                <psc:chapter start="01:37:51" title="Flight Assist Off: Health Risk? Written by Rasudin, read by Beetlejude, PoetSparrow7, and Eid LeWeise"/>
+                <psc:chapter start="01:41:25" title="Bug Down Boogie. Written by DrNoesis, read by Spidey002 and Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast9-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_9.mp3" length="127801974" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_9.mp3</guid>
+            <pubDate>Thu, 17 May 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:44:33</itunes:duration>
+            <itunes:order>9</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 8</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>April 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 8, we find out about war in Colonia, research the Thargons, take up piracy, revisit the legacy of INRA, and try to fly to Polaris.</p><p></p><p>00:00:38 - Editorial. Written by Souvarine, read by Scott Cleverdon</p><p>00:05:08 - Trouble in Paradise. Written by Michael Darkmoor, read by Wotherspoon</p><p>00:19:16 - A Ballet of Blades and Steel. Written by Dr Noesis, read by Adurnis</p><p>00:31:15 - Storm in a Teacup: Haidne Black Brew. Written by Dr Noesis, read by Wotherspoon</p><p>00:33:15 - Combat on the Right Side of the Law. Written by Mini_Watto, read by Scott Cleverdon</p><p>00:43:26 - Flying with the Screaming Eagles. Written by Whitmann, read by Derell Nar</p><p>00:57:55 - Minerva Centaurus Expedition Ends. Written by Whitmann, read by Wotherspoon</p><p>00:59:56 - INRA: Intergalactic Heroes. Written by Louis Calvert, read by Spidey002</p><p>01:17:34 - Polaris: The Mystery of the North Star. Written by Souvarine, read by Derell Nar</p><p>01:24:06 - The Dead End's Circumnavigation Expedition. Written by Wilfrid Sephiroth, read by Eid LeWeise, Derell Nar, Spidey002, and Wotherspoon</p><p>01:30:47 - Meet the Team: Mat2596. Written by Souvarine, read by Beetlejude and Mat2596</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:38" title="Editorial. Written by Souvarine, read by Scott Cleverdon"/>
+                <psc:chapter start="00:05:08" title="Trouble in Paradise. Written by Michael Darkmoor, read by Wotherspoon"/>
+                <psc:chapter start="00:19:16" title="A Ballet of Blades and Steel. Written by Dr Noesis, read by Adurnis"/>
+                <psc:chapter start="00:31:15" title="Storm in a Teacup: Haidne Black Brew. Written by Dr Noesis, read by Wotherspoon"/>
+                <psc:chapter start="00:33:15" title="Combat on the Right Side of the Law. Written by Mini_Watto, read by Scott Cleverdon"/>
+                <psc:chapter start="00:43:26" title="Flying with the Screaming Eagles. Written by Whitmann, read by Derell Nar"/>
+                <psc:chapter start="00:57:55" title="Minerva Centaurus Expedition Ends. Written by Whitmann, read by Wotherspoon"/>
+                <psc:chapter start="00:59:56" title="INRA: Intergalactic Heroes. Written by Louis Calvert, read by Spidey002"/>
+                <psc:chapter start="01:17:34" title="Polaris: The Mystery of the North Star. Written by Souvarine, read by Derell Nar"/>
+                <psc:chapter start="01:24:06" title="The Dead End's Circumnavigation Expedition. Written by Wilfrid Sephiroth, read by Eid LeWeise, Derell Nar, Spidey002, and Wotherspoon"/>
+                <psc:chapter start="01:30:47" title="Meet the Team: Mat2596. Written by Souvarine, read by Beetlejude and Mat2596"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast8-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_8.mp3" length="116279659" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_8.mp3</guid>
+            <pubDate>Thu, 19 Apr 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:35:59</itunes:duration>
+            <itunes:order>8</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 7</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>March 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 7, we talk about the Guardians, investigate the 'Shadow Galaxy', ask questions of John Jameson, have some drinks at Lave, avoid destruction by supernovae, inspect the new Alliance Chieftain and find Earth-likes out in the black.</p><p></p><p>00:00:39 - Editorial. Written by Louis Calvert, read by Spidey002</p><p>00:04:50 - Sagittarius Eye on Guardians. Written by Sagittarius Eye, read by Adurnis</p><p>00:14:00 - Shadow Galaxy. Written by Rasudin, read by Scott Cleverdon</p><p>00:22:36 - Revisiting the Modern Prometheus. Written by Dr. Noesis, read by Spidey002</p><p>00:30:40 - John Jameson: Humanity’s Hero. Written by Wilfrid Sephiroth, read by Wotherspoon</p><p>00:39:22 - Lave: Pivotal System of the Old Worlds. Written by Souvarine, read by Eid LeWeise and Psykokow</p><p>00:45:14 - Supernovae: Nature's Most Powerful Disasters. Written by Mini Watto, read by Beetlejude</p><p>00:55:42 - Alliance Chieftain. Written by Mini Watto, read by Derell Nar</p><p>01:09:17 - For the Love of Earth-Likes. Written by Whitmann, read by Adurnis, AllCrowsAreBlack, Derell Nar, and Souvarine </p><p>01:17:35 - Strange Worlds with Captain Skoomer. Written by Louis Calvert, read by Maya Fey, Scott Cleverdon and Spidey002</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:39" title="Editorial. Written by Louis Calvert, read by Spidey002"/>
+                <psc:chapter start="00:04:50" title="Sagittarius Eye on Guardians. Written by Sagittarius Eye, read by Adurnis"/>
+                <psc:chapter start="00:14:00" title="Shadow Galaxy. Written by Rasudin, read by Scott Cleverdon"/>
+                <psc:chapter start="00:22:36" title="Revisiting the Modern Prometheus. Written by Dr. Noesis, read by Spidey002"/>
+                <psc:chapter start="00:30:40" title="John Jameson: Humanity’s Hero. Written by Wilfrid Sephiroth, read by Wotherspoon"/>
+                <psc:chapter start="00:39:22" title="Lave: Pivotal System of the Old Worlds. Written by Souvarine, read by Eid LeWeise and Psykokow"/>
+                <psc:chapter start="00:45:14" title="Supernovae: Nature's Most Powerful Disasters. Written by Mini Watto, read by Beetlejude"/>
+                <psc:chapter start="00:55:42" title="Alliance Chieftain. Written by Mini Watto, read by Derell Nar"/>
+                <psc:chapter start="01:09:17" title="For the Love of Earth-Likes. Written by Whitmann, read by Adurnis, AllCrowsAreBlack, Derell Nar, and Souvarine "/>
+                <psc:chapter start="01:17:35" title="Strange Worlds with Captain Skoomer. Written by Louis Calvert, read by Maya Fey, Scott Cleverdon and Spidey002"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast7-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_7.mp3" length="115706510" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_7.mp3</guid>
+            <pubDate>Thu, 15 Mar 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:34:17</itunes:duration>
+            <itunes:order>7</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 6</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>February 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 6, we catch up with two heroic initiatives from the Pilots Federation, speculate about the upcoming ship and module releases, cast the harsh light of reappraisal on two of the galactic community's most established institutions, and look back at the first three years of the 34th century.</p><p></p><p>00:00:37 - Editorial. Written by Wilfrid Sephiroth, read by Maya Fey</p><p>00:02:20 - The Race to Rescue the Enigma. Written by Mini Watto, read by Scott Cleverdon</p><p>00:08:02 - Operation IDA: Saving the Pleiades. Written by Louis Calvert, read by Maya Fey and Souvarine</p><p>00:15:12 - The Federal Reclamation Co: The Thin Red Line. Written by R. Sharpe, read by Rheeney and Derell Nar</p><p>00:21:04 - Perez Ring Brewery: The Next Galactic Power? Written by R. Sharpe, read by Scott Cleverdon and Eid LeWeise</p><p>00:29:16 - Sirius Corp: Profits Before Pilots? Written by Louis Calvert, read by Derell Nar</p><p>00:40:52 - Timeline: Three Trailblazing Years. Written by Souvarine, read by Wotherspoon</p><p>00:51:13 - Canonn: Terrorists and Warmongers? Written by Rasudin, read by Buur</p><p>00:56:55 - Rumoured Ships and Modules. Written by Lexic Meise, read by Spidey002</p><p>01:03:25 - Hot Rodder: Ichor. Written by Mini Watto, read by Buur</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:37" title="Editorial. Written by Wilfrid Sephiroth, read by Maya Fey"/>
+                <psc:chapter start="00:02:20" title="The Race to Rescue the Enigma. Written by Mini Watto, read by Scott Cleverdon"/>
+                <psc:chapter start="00:08:02" title="Operation IDA: Saving the Pleiades. Written by Louis Calvert, read by Maya Fey and Souvarine"/>
+                <psc:chapter start="00:15:12" title="The Federal Reclamation Co: The Thin Red Line. Written by R. Sharpe, read by Rheeney and Derell Nar"/>
+                <psc:chapter start="00:21:04" title="Perez Ring Brewery: The Next Galactic Power? Written by R. Sharpe, read by Scott Cleverdon and Eid LeWeise"/>
+                <psc:chapter start="00:29:16" title="Sirius Corp: Profits Before Pilots? Written by Louis Calvert, read by Derell Nar"/>
+                <psc:chapter start="00:40:52" title="Timeline: Three Trailblazing Years. Written by Souvarine, read by Wotherspoon"/>
+                <psc:chapter start="00:51:13" title="Canonn: Terrorists and Warmongers? Written by Rasudin, read by Buur"/>
+                <psc:chapter start="00:56:55" title="Rumoured Ships and Modules. Written by Lexic Meise, read by Spidey002"/>
+                <psc:chapter start="01:03:25" title="Hot Rodder: Ichor. Written by Mini Watto, read by Buur"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast6-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_6.mp3" length="98053334" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_6.mp3</guid>
+            <pubDate>Sat, 17 Feb 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:20:25</itunes:duration>
+            <itunes:order>6</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 5</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>January 3304</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 5, we ask just what are Barnacles, take both the classic Cobra Mk III and the brand new Lakon Type-10 for a spin, and investigate Project Equinox.</p><p></p><p>00:00:37 - Editorial. Written by Souvarine, read by Maya Fey</p><p>00:01:51 - The Enigma Expedition. Written by Greytest, read by Rheeney</p><p>00:03:16 - The Barnacle Mystery: life, or Machine? Written by Souvarine, read by Buur</p><p>00:11:52 - Shipyard: Cobra Mk III. Written by Mini_Watto, read by Rheeney</p><p>00:19:30 - Thargoid Encounters Bulletin. Written by Camisade, read by Wotherspoon</p><p>00:21:50 - Project Equinox and Beyond. Written by Louis Calvert, read by Scott Cleverdon</p><p>00:50:30 - Sagittarius Eye New Years Race. Written by Rasudin, read by Allcrowsareblack</p><p>00:52:30 - The Type-10 Defender: Lakon's First Combat Ship. Written by Wilfrid Sephiroth, read by Buur</p><p>01:01:44 - The Halsey Conspiracy. Written by Rasudin, read by Derell Nar</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:00:37" title="Editorial. Written by Souvarine, read by Maya Fey"/>
+                <psc:chapter start="00:01:51" title="The Enigma Expedition. Written by Greytest, read by Rheeney"/>
+                <psc:chapter start="00:03:16" title="The Barnacle Mystery: life, or Machine? Written by Souvarine, read by Buur"/>
+                <psc:chapter start="00:11:52" title="Shipyard: Cobra Mk III. Written by Mini_Watto, read by Rheeney"/>
+                <psc:chapter start="00:19:30" title="Thargoid Encounters Bulletin. Written by Camisade, read by Wotherspoon"/>
+                <psc:chapter start="00:21:50" title="Project Equinox and Beyond. Written by Louis Calvert, read by Scott Cleverdon"/>
+                <psc:chapter start="00:50:30" title="Sagittarius Eye New Years Race. Written by Rasudin, read by Allcrowsareblack"/>
+                <psc:chapter start="00:52:30" title="The Type-10 Defender: Lakon's First Combat Ship. Written by Wilfrid Sephiroth, read by Buur"/>
+                <psc:chapter start="01:01:44" title="The Halsey Conspiracy. Written by Rasudin, read by Derell Nar"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast5-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_5.mp3" length="86003976" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_5.mp3</guid>
+            <pubDate>Mon, 22 Jan 2018 12:00:00 +0000</pubDate>
+            <itunes:duration>1:11:23</itunes:duration>
+            <itunes:order>5</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 4</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>December 3303</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 4, we watch the Pleiades burn, share the pond with the Diamond Frogs, learn about the Alliance and search for signs of intelligent life with the Aronnax Expedition.</p><p></p><p>00:36 - Editorial: The Pleiades Burn. Written by Wilfrid Sephiroth, read by Rheeney</p><p>03:37 - The Diamond Frogs: Jewels Amongst Pilots or Galactic Pond Life? Written by Souvarine, read by Wotherspoon and Scott Cleverdon</p><p>24:56 - The Alliance: Who are They? Written by Louis Calvert, read by Derell Nar</p><p>39:39 - Game of Systems. Written by Louis Calvert, read by Buur</p><p>53:42 - The Aronnax Expedition. Written by Edelgard von Rhein, read by Derell Nar</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:36" title="Editorial: The Pleiades Burn. Written by Wilfrid Sephiroth, read by Rheeney"/>
+                <psc:chapter start="03:37" title="The Diamond Frogs: Jewels Amongst Pilots or Galactic Pond Life? Written by Souvarine, read by Wotherspoon and Scott Cleverdon"/>
+                <psc:chapter start="24:56" title="The Alliance: Who are They? Written by Louis Calvert, read by Derell Nar"/>
+                <psc:chapter start="39:39" title="Game of Systems. Written by Louis Calvert, read by Buur"/>
+                <psc:chapter start="53:42" title="The Aronnax Expedition. Written by Edelgard von Rhein, read by Derell Nar"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast4-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_4.mp3" length="78610172" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_4.mp3</guid>
+            <pubDate>Sat, 16 Dec 2017 12:00:00 +0000</pubDate>
+            <itunes:duration>1:03:58</itunes:duration>
+            <itunes:order>4</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 3</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>November 3303</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 3, we catch up with Commander Erimus, discuss slavery with the Pegasi Railroad, and investigate the murky history of INRA.</p><p></p><p>00:37 - Editorial. Written by Souvarine, read by Scott Cleverdon</p><p>02:34 - Distant Worlds, Again: An Interview with Commander Erimus. Written by Wilfrid Sephiroth, read by Scott Cleverdon and Wotherspoon</p><p>17:49 - The Pegasi Slave Railroad: Terrorists or Freedom Fighters? Written by Louis Calvert, read by Scott Cleverdon</p><p>36:06 - INRA: Relic of a Past and Present War. Written by Rasudin, read by Eid LeWeise</p><p>41:34 - Raxxla: Where art Thou? Written by Louis Calvert, read by Derell Nar and Buur</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:37" title="Editorial. Written by Souvarine, read by Scott Cleverdon"/>
+                <psc:chapter start="02:34" title="Distant Worlds, Again: An Interview with Commander Erimus. Written by Wilfrid Sephiroth, read by Scott Cleverdon and Wotherspoon"/>
+                <psc:chapter start="17:49" title="The Pegasi Slave Railroad: Terrorists or Freedom Fighters? Written by Louis Calvert, read by Scott Cleverdon"/>
+                <psc:chapter start="36:06" title="INRA: Relic of a Past and Present War. Written by Rasudin, read by Eid LeWeise"/>
+                <psc:chapter start="41:34" title="Raxxla: Where art Thou? Written by Louis Calvert, read by Derell Nar and Buur"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast3-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_3.mp3" length="60752709" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_3.mp3</guid>
+            <pubDate>Thu, 16 Nov 2017 12:00:00 +0000</pubDate>
+            <itunes:duration>0:50:26</itunes:duration>
+            <itunes:order>3</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 2</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>October 3303</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 2, we ask just who is Yuri Grom, ask whether we're actually at war, go exploring with Commander Allitnil, dive into the Aegis Initiative, and reflect on what exactly is happening out in Maia.</p><p></p><p>00:30 - Editorial. Written by Souvarine, read by Buur</p><p>02:00 - Yuri Grom and the EG Pilots: Wannabe Overlords or Humanity’s Guardians? Written by Souvarine, read by Maya Fey and Scott Cleverdon</p><p>19:40 - An Uncertain War. Written by Wilfrid Sephiroth, read by Eid LeWeise</p><p>24:25 - Flying with Commander Allitnil: An Interview. Written by Aura Lorell, read by Wotherspoon and Derell Nar</p><p>34:47 - Eye on the Sky: The Aegis Deception. Written by Rasudin, read by Derell Nar</p><p>41:53 - Musings from Maia. Written by BlackmailGnome, read by Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:30" title="Editorial. Written by Souvarine, read by Buur"/>
+                <psc:chapter start="02:00" title="Yuri Grom and the EG Pilots: Wannabe Overlords or Humanity’s Guardians? Written by Souvarine, read by Maya Fey and Scott Cleverdon"/>
+                <psc:chapter start="19:40" title="An Uncertain War. Written by Wilfrid Sephiroth, read by Eid LeWeise"/>
+                <psc:chapter start="24:25" title="Flying with Commander Allitnil: An Interview. Written by Aura Lorell, read by Wotherspoon and Derell Nar"/>
+                <psc:chapter start="34:47" title="Eye on the Sky: The Aegis Deception. Written by Rasudin, read by Derell Nar"/>
+                <psc:chapter start="41:53" title="Musings from Maia. Written by BlackmailGnome, read by Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast2-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_2.mp3" length="60882146" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_2.mp3</guid>
+            <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+            <itunes:duration>0:49:35</itunes:duration>
+            <itunes:order>2</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+        <item>
+            <title>Sagittarius Eye - The Elite Dangerous Magazine - Issue 1</title>
+            <itunes:author>Sagittarius Eye</itunes:author>
+            <itunes:subtitle>September 3303</itunes:subtitle>
+            <itunes:summary><![CDATA[
+				<p>In Issue 1, we ask just who are the Thargoids, look through some 'top songs' of 3303, have a picnic at Thargoid Rock, and investigate the mystery of the missing Lakon Type-8.</p><p></p><p>00:30 - Editorial: Love at First Sight. Written by Whitmann, read by Wotherspoon</p><p>02:01 - Who the Hell are the Thargoids, and What Could They Possibly Want? Written by Whitmann, read by Derell Nar and cast</p><p>18:06 - Vitreous Humour: Galaxy Songs. Written by Whitmann, read by Wotherspoon</p><p>19:29 - Eye on the Sky: The Tantalising Type-8. Written by Rasudin, read by Adurnis</p><p>27:09 - Picnic at Thargoid Rock. Written by Wilfrid Sephiroth, read by Perky Percy</p><p>34:46 - Bursting the Bubble: Trouble Brewing in Isis? Written by BlackmailGnome, read by Scott Cleverdon</p>
+				]]>            </itunes:summary>
+            <psc:chapters version="1.1"
+                xmlns:psc="http://podlove.org/simple-chapters">
+                <psc:chapter start="00:30" title="Editorial: Love at First Sight. Written by Whitmann, read by Wotherspoon"/>
+                <psc:chapter start="02:01" title="Who the Hell are the Thargoids, and What Could They Possibly Want? Written by Whitmann, read by Derell Nar and cast"/>
+                <psc:chapter start="18:06" title="Vitreous Humour: Galaxy Songs. Written by Whitmann, read by Wotherspoon"/>
+                <psc:chapter start="19:29" title="Eye on the Sky: The Tantalising Type-8. Written by Rasudin, read by Adurnis"/>
+                <psc:chapter start="27:09" title="Picnic at Thargoid Rock. Written by Wilfrid Sephiroth, read by Perky Percy"/>
+                <psc:chapter start="34:46" title="Bursting the Bubble: Trouble Brewing in Isis? Written by BlackmailGnome, read by Scott Cleverdon"/>
+            </psc:chapters>
+            <itunes:image href="https://podcast.sagittarius-eye.com/img/Podcast1-album.png"/>
+            <enclosure url="https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_1.mp3" length="49735038" type="audio/mpeg"/>
+            <guid>https://cdn.sagittarius-eye.com/podcast/sagittarius_eye_issue_1.mp3</guid>
+            <pubDate>Thu, 14 Sep 2017 12:00:00 +0000</pubDate>
+            <itunes:duration>0:40:36</itunes:duration>
+            <itunes:order>1</itunes:order>
+            <itunes:keywords>Elite Dangerous,Sagittarius Eye,Magazine</itunes:keywords>
+            <itunes:explicit>No</itunes:explicit>
+            <link>https://podcast.sagittarius-eye.com/</link>
+        </item>
+    </channel>
+</rss>
